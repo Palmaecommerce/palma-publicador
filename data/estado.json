@@ -1,1 +1,18 @@
-{}
+{
+  "c02-pedidos-por-audio": {
+    "ig_id": "18208988008371066",
+    "fb_id": null,
+    "tipo": "carrusel",
+    "tema": "dolor",
+    "fecha_programada": "2026-11-12T12:15:00-03:00",
+    "publicado": "2026-11-12T15:21:28.730224+00:00"
+  },
+  "c02-pedidos-por-audio-historia": {
+    "ig_id": "18127743280903211",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "dolor",
+    "fecha_programada": "2026-11-12T12:16:00-03:00",
+    "publicado": "2026-11-12T15:21:28.730224+00:00"
+  }
+}
