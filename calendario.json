@@ -662,5 +662,32 @@
     "texto": "¿Te pasa? Los pedidos te llegan por audio, foto y mensaje suelto.\n\nCon una tienda online el pedido llega armado, el stock se descuenta solo y cada cliente queda guardado. Te la armamos y cargamos todos tus productos.\n\nPartner certificado de Tiendanube. Diagnóstico gratis por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
     "aprobado": false,
     "variante": "B"
+  },
+  {
+    "id": "v2-c08-revendedoras",
+    "fecha": "2026-11-12T13:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "recompra",
+    "imagenes": [
+      "c08v2-01.jpg",
+      "c08v2-02.jpg",
+      "c08v2-03.jpg",
+      "c08v2-04.jpg",
+      "c08v2-05.jpg",
+      "c08v2-06.jpg"
+    ],
+    "texto": "¿Te pasa? La revendedora compra una vez y después no vuelve a escribir.\n\nNo es que no le gustó: es que no tenés cómo volver a hablarle. Con tu tienda online guardás su contacto, le avisás cuando entra mercadería, le das un cupón para la segunda compra y le volvés a aparecer con publicidad.\n\nTe armamos la tienda y el sistema. Somos Partner certificado de Tiendanube. Escribinos al 11 6791-5562.\n\n#revendedoras #mayoristas #tiendanube #ventasonline #emprendedoresargentinos",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c08-revendedoras-historia",
+    "fecha": "2026-11-12T13:01:00-03:00",
+    "tipo": "historia",
+    "tema": "recompra",
+    "imagenes": [
+      "c08-revendedoras-historia.jpg"
+    ],
+    "aprobado": true
   }
 ]
