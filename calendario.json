@@ -640,5 +640,27 @@
       "c03-como-armamos-historia.jpg"
     ],
     "aprobado": true
+  },
+  {
+    "id": "reel01-A-prueba",
+    "fecha": "2026-11-12T15:00:00-03:00",
+    "tipo": "reel_prueba",
+    "tema": "dolor",
+    "video": "reel01-A.mp4",
+    "portada": "reel01-A-portada.jpg",
+    "texto": "¿Te pasa? Los pedidos te llegan por audio, foto y mensaje suelto.\n\nCon una tienda online el pedido llega armado, el stock se descuenta solo y cada cliente queda guardado. Te la armamos y cargamos todos tus productos.\n\nPartner certificado de Tiendanube. Diagnóstico gratis por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
+    "aprobado": true,
+    "variante": "A"
+  },
+  {
+    "id": "reel01-B-prueba",
+    "fecha": "2026-11-12T17:00:00-03:00",
+    "tipo": "reel_prueba",
+    "tema": "dolor",
+    "video": "reel01-B.mp4",
+    "portada": "reel01-B-portada.jpg",
+    "texto": "¿Te pasa? Los pedidos te llegan por audio, foto y mensaje suelto.\n\nCon una tienda online el pedido llega armado, el stock se descuenta solo y cada cliente queda guardado. Te la armamos y cargamos todos tus productos.\n\nPartner certificado de Tiendanube. Diagnóstico gratis por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
+    "aprobado": true,
+    "variante": "B"
   }
 ]
