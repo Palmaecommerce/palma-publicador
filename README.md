@@ -7,4 +7,4 @@ Robot que publica solo en Instagram (@palma.ecommerce) y en la página de Facebo
 - `data/estado.json`: lo que ya se publicó. `data/estadisticas.json`: métricas de cada post (se actualiza todos los días).
 - `diseno/`: generador de los carruseles.
 
-Secretos en Settings → Secrets and variables → Actions: `IG_TOKEN` (obligatorio), `FB_PAGE_TOKEN` y `FB_PAGE_ID` (Facebook, opcional), `GH_PAT` (para renovar el token solo).
+Secretos en Settings → Secrets and variables → Actions: `IG_TOKEN` (obligatorio), `FB_PAGE_TOKEN` y `FB_PAGE_ID` (Facebook, opcional), token de usuario del sistema de Meta que no vence.

@@ -27,25 +27,25 @@
   },
   {
     "id": "c02-pedidos-por-audio",
-    "fecha": "2026-11-13T14:00:00-03:00",
+    "fecha": "2026-11-12T12:00:00-03:00",
     "tipo": "carrusel",
     "tema": "dolor",
     "imagenes": [
-      "c02-pedidos-por-audio-01.jpg",
-      "c02-pedidos-por-audio-02.jpg",
-      "c02-pedidos-por-audio-03.jpg",
-      "c02-pedidos-por-audio-04.jpg",
-      "c02-pedidos-por-audio-05.jpg",
-      "c02-pedidos-por-audio-06.jpg",
-      "c02-pedidos-por-audio-07.jpg"
+      "c02v2-01.jpg",
+      "c02v2-02.jpg",
+      "c02v2-03.jpg",
+      "c02v2-04.jpg",
+      "c02v2-05.jpg",
+      "c02v2-06.jpg",
+      "c02v2-07.jpg"
     ],
-    "texto": "¿Te pasa alguna de estas?\n\nSi te identificaste con 2 o más, tu negocio ya necesita una tienda online. Los pedidos llegan armados, el stock se descuenta solo y guardás el contacto de cada cliente para volver a venderle.\n\nEscribinos por WhatsApp al 11 6791-5562 y te contamos cómo.\n\n#tiendaonline #mayoristas #emprendedores #tiendanube #flores",
+    "texto": "¿Te pasa alguna de estas? Contá cuántas en los comentarios 👇\n\nSi te pasan 2 o más, tu negocio ya necesita una tienda online. Te la armamos y te cargamos todos los productos: los pedidos llegan armados, el stock se descuenta solo y cada cliente queda guardado para volver a venderle.\n\nSomos Partner certificado de Tiendanube. Escribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
     "facebook": true,
     "aprobado": true
   },
   {
     "id": "c02-pedidos-por-audio-historia",
-    "fecha": "2026-11-13T14:05:00-03:00",
+    "fecha": "2026-11-12T12:05:00-03:00",
     "tipo": "historia",
     "tema": "dolor",
     "imagenes": [
