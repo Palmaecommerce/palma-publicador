@@ -689,5 +689,32 @@
       "c08-revendedoras-historia.jpg"
     ],
     "aprobado": true
+  },
+  {
+    "id": "v2-c04-todo-el-pais",
+    "fecha": "2026-11-12T14:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "alcance",
+    "imagenes": [
+      "c04v2-01.jpg",
+      "c04v2-02.jpg",
+      "c04v2-03.jpg",
+      "c04v2-04.jpg",
+      "c04v2-05.jpg",
+      "c04v2-06.jpg"
+    ],
+    "texto": "Tu local en Flores o en La Salada puede venderle a revendedoras de todo el país.\n\nTe encuentran por Instagram y Facebook, arman el pedido solas en tu tienda, el envío se calcula solo con el código postal y cada clienta queda guardada para volver a venderle.\n\nTe armamos la tienda con todos tus productos y la publicidad. Partner certificado de Tiendanube. Escribinos al 11 6791-5562.\n\n#mayoristas #ventamayorista #tiendanube #revendedoras #emprendedoresargentinos",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c04-todo-el-pais-historia",
+    "fecha": "2026-11-12T14:01:00-03:00",
+    "tipo": "historia",
+    "tema": "alcance",
+    "imagenes": [
+      "c04-tienda-mayorista-historia.jpg"
+    ],
+    "aprobado": true
   }
 ]
