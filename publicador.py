@@ -24,17 +24,17 @@ ESTADO = "data/estado.json"
 STATS = "data/estadisticas.json"
 
 
-def api(method, url, **params):
+def api(method, endpoint, **params):
     data = urllib.parse.urlencode(params).encode()
     if method == "GET":
-        req = urllib.request.Request(url + "?" + data.decode())
+        req = urllib.request.Request(endpoint + "?" + data.decode())
     else:
-        req = urllib.request.Request(url, data=data, method="POST")
+        req = urllib.request.Request(endpoint, data=data, method="POST")
     try:
         with urllib.request.urlopen(req, timeout=60) as r:
             return json.loads(r.read())
     except urllib.error.HTTPError as e:
-        raise RuntimeError(f"{e.code} {url}: {e.read().decode()[:500]}")
+        raise RuntimeError(f"{e.code} {endpoint}: {e.read().decode()[:500]}")
 
 
 def load(path, default):
