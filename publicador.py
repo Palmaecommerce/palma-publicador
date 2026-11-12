@@ -13,13 +13,13 @@ Secretos (GitHub > Settings > Secrets and variables > Actions):
 import json, os, sys, time, datetime as dt, urllib.request, urllib.parse
 
 IG = "https://graph.facebook.com/v23.0"
-IG_USER = os.environ.get("IG_USER_ID", "17841414669238656")
+IG_USER = os.environ.get("IG_USER_ID") or "17841414669238656"
 FB = "https://graph.facebook.com/v23.0"
 REPO = os.environ.get("GITHUB_REPOSITORY", "Palmaecommerce/palma-publicador")
 RAW = f"https://raw.githubusercontent.com/{REPO}/main/media/"
 TOKEN = os.environ.get("IG_TOKEN", "")
 FB_TOKEN = os.environ.get("FB_PAGE_TOKEN", "")
-FB_PAGE = os.environ.get("FB_PAGE_ID", "1389049390961304")
+FB_PAGE = os.environ.get("FB_PAGE_ID") or "1389049390961304"
 ESTADO = "data/estado.json"
 STATS = "data/estadisticas.json"
 
