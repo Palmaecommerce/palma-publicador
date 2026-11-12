@@ -30,5 +30,21 @@
     "tema": "proceso",
     "fecha_programada": "2026-11-12T12:36:00-03:00",
     "publicado": "2026-11-12T15:37:08.039910+00:00"
+  },
+  "v2-c08-revendedoras": {
+    "ig_id": "18582793789073427",
+    "fb_id": "1389049390961304_122109600267520453",
+    "tipo": "carrusel",
+    "tema": "recompra",
+    "fecha_programada": "2026-11-12T13:00:00-03:00",
+    "publicado": "2026-11-12T16:52:29.232659+00:00"
+  },
+  "v2-c08-revendedoras-historia": {
+    "ig_id": "18123396737094105",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "recompra",
+    "fecha_programada": "2026-11-12T13:01:00-03:00",
+    "publicado": "2026-11-12T16:52:29.232659+00:00"
   }
 }
