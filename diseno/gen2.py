@@ -10,6 +10,9 @@ CSS="""@font-face{font-family:P;src:url(F4);font-weight:400}@font-face{font-fami
 .top{display:flex;align-items:center;gap:14px;font-weight:800;font-size:28px}.top img{width:54px;height:54px;border-radius:13px}
 .bar{position:absolute;top:0;left:0;height:12px;background:linear-gradient(90deg,#E9472A,#D61F72)}
 .pg{position:absolute;top:92px;right:80px;font-weight:800;font-size:26px;opacity:.55}
+.tn{position:absolute;top:84px;right:150px;display:flex;align-items:center;gap:10px;border-radius:999px;padding:10px 20px;font-weight:800;font-size:22px;letter-spacing:.5px}
+.dark .tn{background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.3);color:#fff}.light .tn{background:#2B1452;color:#fff}
+.tn i{width:22px;height:22px;border-radius:50%;background:#2fd47a;position:relative}.tn i:after{content:'';position:absolute;left:7px;top:3px;width:6px;height:11px;border:solid #fff;border-width:0 3px 3px 0;transform:rotate(45deg)}
 .k{display:inline-block;background:#E9472A;color:#fff;border-radius:999px;padding:12px 28px;font-weight:800;font-size:26px;letter-spacing:2px}
 .h{font-weight:800;letter-spacing:-2px;line-height:1.02}.h span{color:#FF8FB1}.light .h span{color:#D61F72}
 .sub{font-size:42px;line-height:1.3;font-weight:600}
@@ -28,7 +31,7 @@ CSS="""@font-face{font-family:P;src:url(F4);font-weight:400}@font-face{font-fami
 for k,v in (("F4",400),("F6",600),("F8",800)): CSS=CSS.replace(k,FONT%v)
 def page(cls,i,n,body,nxt):
     nx=f'<div class=next><span>{nxt}</span><b>→</b></div>' if nxt else ''
-    return f'<body class={cls}><div class=bar style="width:{100*i/n:.0f}%"></div><div class=top><img src="{ICON}">Palma Ecommerce</div><div class=pg>{i}/{n}</div>{body}{nx}</body>'
+    return f'<body class={cls}><div class=bar style="width:{100*i/n:.0f}%"></div><div class=top><img src="{ICON}">Palma Ecommerce</div><div class=tn><i></i>Partner certificado Tiendanube</div><div class=pg>{i}/{n}</div>{body}{nx}</body>'
 async def render(slides,prefix):
     os.makedirs('out',exist_ok=True); outs=[]
     async with async_playwright() as p:
@@ -53,3 +56,19 @@ CSS+=""".cli{display:flex;flex-direction:column;gap:16px;margin-top:40px}.cli di
 .cli b{font-size:34px;display:block}.cli span{font-size:26px;color:#7a6b8f;font-weight:600}
 .cup{margin-top:50px;border:5px dashed #FF8FB1;border-radius:34px;padding:44px;text-align:center}.cup b{display:block;font-size:110px;letter-spacing:4px;color:#fff}.cup span{font-size:38px;font-weight:600;color:#F1ECF4}
 """
+CSS+=""".chips{display:flex;flex-wrap:wrap;gap:16px;margin-top:50px}.chips span{background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.25);border-radius:999px;padding:16px 28px;font-size:34px;font-weight:600}
+.cp{margin-top:46px;background:#fff;border-radius:28px;padding:30px;color:#2B1452;box-shadow:0 14px 40px rgba(0,0,0,.2)}.cp .in{border:3px solid #e2d9ea;border-radius:16px;padding:18px 22px;font-size:34px;font-weight:600}.cp .op{display:flex;justify-content:space-between;margin-top:18px;font-size:32px;font-weight:600;padding:16px 6px;border-bottom:2px solid #f0eaf3}.cp .op b{color:#D61F72}
+"""
+
+async def story(kick,h,sub,prefix):
+    css=CSS.replace('width:1080px;height:1350px','width:1080px;height:1920px')
+    body=f'''<body class=dark><div class=top><img src="{ICON}">Palma Ecommerce</div><div class=k style="margin-top:300px">NUEVO POST</div>
+<div class=h style="font-size:110px;margin-top:34px">{h}</div><div class=sub style="margin-top:40px;color:#F1ECF4;font-size:46px">{sub}</div>
+<div style="position:absolute;left:80px;right:80px;bottom:360px;background:#fff;color:#2B1452;border-radius:999px;text-align:center;font-weight:800;font-size:42px;padding:34px">WhatsApp 11 6791-5562</div>
+<div style="position:absolute;left:0;right:0;bottom:270px;text-align:center;font-weight:800;font-size:30px;color:#fff;display:flex;justify-content:center;align-items:center;gap:12px"><span style="width:30px;height:30px;border-radius:50%;background:#2fd47a;display:inline-block"></span>Partner certificado de Tiendanube</div></body>'''
+    f=f'out/{prefix}-historia'
+    async with async_playwright() as p:
+        b=await p.chromium.launch(); pg=await b.new_page(viewport={'width':1080,'height':1920})
+        open(f+'.html','w').write(f'<html><head><meta charset=utf-8><style>{css}</style></head>{body}</html>')
+        await pg.goto('file://'+os.path.abspath(f+'.html')); await pg.wait_for_timeout(300); await pg.screenshot(path=f+'.png'); await b.close()
+    os.remove(f+'.html'); Image.open(f+'.png').convert('RGB').save(f+'.jpg',quality=92)

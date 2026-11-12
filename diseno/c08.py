@@ -26,4 +26,4 @@ S=[
  <div class=sub style="margin-top:44px;font-size:36px;color:#FFB3C7">Partner certificado de Tiendanube</div>''',
   "Escribinos al 11 6791-5562"),
 ]
-print(asyncio.run(render(S,'c08v2')))
+if __name__=="__main__": print(asyncio.run(render(S,"c08v2")))

@@ -691,29 +691,197 @@
     "aprobado": true
   },
   {
-    "id": "v2-c04-todo-el-pais",
+    "id": "v2-c04v2",
     "fecha": "2026-11-12T14:00:00-03:00",
     "tipo": "carrusel",
     "tema": "alcance",
+    "seo": "Vender por mayor a todo el país sin moverte de tu local",
     "imagenes": [
       "c04v2-01.jpg",
       "c04v2-02.jpg",
       "c04v2-03.jpg",
       "c04v2-04.jpg",
       "c04v2-05.jpg",
-      "c04v2-06.jpg"
+      "c04v2-06.jpg",
+      "c04v2-07.jpg"
     ],
-    "texto": "Tu local en Flores o en La Salada puede venderle a revendedoras de todo el país.\n\nTe encuentran por Instagram y Facebook, arman el pedido solas en tu tienda, el envío se calcula solo con el código postal y cada clienta queda guardada para volver a venderle.\n\nTe armamos la tienda con todos tus productos y la publicidad. Partner certificado de Tiendanube. Escribinos al 11 6791-5562.\n\n#mayoristas #ventamayorista #tiendanube #revendedoras #emprendedoresargentinos",
+    "texto": "Cómo vender a revendedoras de todo el país con tu tienda online mayorista 👇\n\nTe encuentran por Instagram y Facebook, arman el pedido solas, el envío se calcula solo con el código postal y cada clienta queda guardada para volver a venderle.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#ventamayorista #tiendaonline #revendedoras #tiendanube #mayoristas",
     "facebook": true,
     "aprobado": true
   },
   {
-    "id": "v2-c04-todo-el-pais-historia",
+    "id": "v2-c04v2-historia",
     "fecha": "2026-11-12T14:01:00-03:00",
     "tipo": "historia",
     "tema": "alcance",
     "imagenes": [
-      "c04-tienda-mayorista-historia.jpg"
+      "c04v2-historia.jpg"
+    ],
+    "aprobado": true
+  },
+  {
+    "id": "v2-c05v2",
+    "fecha": "2026-11-12T15:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "educativo",
+    "seo": "5 errores que hacen que tu tienda online no venda",
+    "imagenes": [
+      "c05v2-01.jpg",
+      "c05v2-02.jpg",
+      "c05v2-03.jpg",
+      "c05v2-04.jpg",
+      "c05v2-05.jpg",
+      "c05v2-06.jpg",
+      "c05v2-07.jpg"
+    ],
+    "texto": "¿Tu tienda online no vende? Revisá estos 5 errores 👇 Guardalo para cuando revises la tuya.\n\n1. Fotos oscuras o borrosas. 2. Productos sin precio. 3. Sin talles ni medidas. 4. Envío poco claro. 5. Nadie responde.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #ventasonline #emprendedoresargentinos #tiendanube #ecommerce",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c05v2-historia",
+    "fecha": "2026-11-12T15:01:00-03:00",
+    "tipo": "historia",
+    "tema": "educativo",
+    "imagenes": [
+      "c05v2-historia.jpg"
+    ],
+    "aprobado": true
+  },
+  {
+    "id": "v2-c06v2",
+    "fecha": "2026-11-12T17:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "precios",
+    "seo": "Cuánto cuesta una tienda online Tiendanube armada",
+    "imagenes": [
+      "c06v2-01.jpg",
+      "c06v2-02.jpg",
+      "c06v2-03.jpg",
+      "c06v2-04.jpg",
+      "c06v2-05.jpg",
+      "c06v2-06.jpg"
+    ],
+    "texto": "¿Cuánto cuesta tener tu tienda online armada? Te mostramos los 3 planes, con precios claros y sin comisión sobre tus ventas 👇\n\nInicial $350.000 + $65.000/mes · Medio $590.000 + $330.000/mes · Premium $890.000 + $620.000/mes. La publicidad se paga aparte, directo a Meta. Precios de lanzamiento de noviembre de 2026.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c06v2-historia",
+    "fecha": "2026-11-12T17:01:00-03:00",
+    "tipo": "historia",
+    "tema": "precios",
+    "imagenes": [
+      "c06v2-historia.jpg"
+    ],
+    "aprobado": true
+  },
+  {
+    "id": "v2-c07v2",
+    "fecha": "2026-11-12T19:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "confianza",
+    "seo": "Garantía: tienda online sin riesgo",
+    "imagenes": [
+      "c07v2-01.jpg",
+      "c07v2-02.jpg",
+      "c07v2-03.jpg",
+      "c07v2-04.jpg",
+      "c07v2-05.jpg"
+    ],
+    "texto": "¿Y si pago y no me hacen nada? Por eso trabajamos con 2 garantías 👇\n\nSi la tienda no te gusta, no pagás el 50% restante. Si en 10 días hábiles tus campañas no están publicadas, ese mes no se paga. Y todo queda a tu nombre.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #emprendedores #ecommerce #agenciadigital",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c07v2-historia",
+    "fecha": "2026-11-12T19:01:00-03:00",
+    "tipo": "historia",
+    "tema": "confianza",
+    "imagenes": [
+      "c07v2-historia.jpg"
+    ],
+    "aprobado": true
+  },
+  {
+    "id": "v2-c09v2",
+    "fecha": "2026-11-12T21:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "publicidad",
+    "seo": "Publicidad en Instagram y Facebook que trae mensajes a WhatsApp",
+    "imagenes": [
+      "c09v2-01.jpg",
+      "c09v2-02.jpg",
+      "c09v2-03.jpg",
+      "c09v2-04.jpg",
+      "c09v2-05.jpg",
+      "c09v2-06.jpg"
+    ],
+    "texto": "Publicidad en Instagram y Facebook que te llena el WhatsApp de consultas 👇\n\nArmamos el anuncio con tus fotos, la gente te escribe directo, vos vendés y medimos cuánto invertiste y cuánto vendiste.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#publicidadenredes #metaads #whatsappbusiness #emprendedoresargentinos #tiendanube",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c09v2-historia",
+    "fecha": "2026-11-12T21:01:00-03:00",
+    "tipo": "historia",
+    "tema": "publicidad",
+    "imagenes": [
+      "c09v2-historia.jpg"
+    ],
+    "aprobado": true
+  },
+  {
+    "id": "v2-c10v2",
+    "fecha": "2026-11-13T10:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "dolor",
+    "seo": "Tienda online que vende las 24 horas",
+    "imagenes": [
+      "c10v2-01.jpg",
+      "c10v2-02.jpg",
+      "c10v2-03.jpg",
+      "c10v2-04.jpg",
+      "c10v2-05.jpg"
+    ],
+    "texto": "Tu tienda online vende las 24 horas, aunque estés durmiendo 👇\n\nSin tienda, el que te escribe a la noche a la mañana ya le compró a otro. Con tienda, te despertás con la venta hecha. Y seguís atendiendo por WhatsApp como siempre.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #ventasonline #tiendanube #emprendedoresargentinos #ecommerce",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c10v2-historia",
+    "fecha": "2026-11-13T10:01:00-03:00",
+    "tipo": "historia",
+    "tema": "dolor",
+    "imagenes": [
+      "c10v2-historia.jpg"
+    ],
+    "aprobado": true
+  },
+  {
+    "id": "v2-c11v2",
+    "fecha": "2026-11-13T13:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "riesgo",
+    "seo": "Por qué tener tienda online además de Instagram",
+    "imagenes": [
+      "c11v2-01.jpg",
+      "c11v2-02.jpg",
+      "c11v2-03.jpg",
+      "c11v2-04.jpg",
+      "c11v2-05.jpg"
+    ],
+    "texto": "Si mañana te bloquean Instagram, ¿dónde quedan tus clientes? 👇\n\nInstagram no es tuyo: una cuenta se puede bloquear o hackear. Tu tienda online sí: tus productos, tus ventas y la lista de todos tus clientes.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #emprendedoresargentinos #tiendanube #ventasonline #mayoristas",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c11v2-historia",
+    "fecha": "2026-11-13T13:01:00-03:00",
+    "tipo": "historia",
+    "tema": "riesgo",
+    "imagenes": [
+      "c11v2-historia.jpg"
     ],
     "aprobado": true
   }
