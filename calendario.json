@@ -613,5 +613,32 @@
       "c23-equipo-historia.jpg"
     ],
     "aprobado": false
+  },
+  {
+    "id": "v2-c03-como-armamos",
+    "fecha": "2026-11-12T13:00:00-03:00",
+    "tipo": "carrusel",
+    "tema": "proceso",
+    "imagenes": [
+      "c03v2-01.jpg",
+      "c03v2-02.jpg",
+      "c03v2-03.jpg",
+      "c03v2-04.jpg",
+      "c03v2-05.jpg",
+      "c03v2-06.jpg"
+    ],
+    "texto": "Así armamos tu tienda online, en 4 pasos y sin que cargues ni un producto.\n\n1. Diagnóstico gratis por WhatsApp.\n2. Nos pasás fotos, precios y talles.\n3. Armamos el diseño y cargamos todo.\n4. La ves y la aprobás. Si no te gusta, no pagás el 50% restante.\n\nSomos Partner certificado de Tiendanube. Escribinos al 11 6791-5562 y arrancamos con el paso 1.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
+    "facebook": true,
+    "aprobado": true
+  },
+  {
+    "id": "v2-c03-como-armamos-historia",
+    "fecha": "2026-11-12T13:05:00-03:00",
+    "tipo": "historia",
+    "tema": "proceso",
+    "imagenes": [
+      "c03-como-armamos-historia.jpg"
+    ],
+    "aprobado": true
   }
 ]
