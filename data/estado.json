@@ -14,5 +14,21 @@
     "tema": "dolor",
     "fecha_programada": "2026-11-12T12:16:00-03:00",
     "publicado": "2026-11-12T15:21:28.730224+00:00"
+  },
+  "v2-c03-como-armamos": {
+    "ig_id": "18094398005227427",
+    "fb_id": "1389049390961304_122109586989520453",
+    "tipo": "carrusel",
+    "tema": "proceso",
+    "fecha_programada": "2026-11-12T12:35:00-03:00",
+    "publicado": "2026-11-12T15:37:08.039910+00:00"
+  },
+  "v2-c03-como-armamos-historia": {
+    "ig_id": "17894730216653684",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "proceso",
+    "fecha_programada": "2026-11-12T12:36:00-03:00",
+    "publicado": "2026-11-12T15:37:08.039910+00:00"
   }
 }
