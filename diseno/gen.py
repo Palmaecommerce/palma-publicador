@@ -1,7 +1,9 @@
 import asyncio, os, json
 from playwright.async_api import async_playwright
 from PIL import Image
-from contenido import C, WA
+import sys
+mod=__import__(sys.argv[1] if len(sys.argv)>1 else 'contenido')
+C,WA=mod.C,mod.WA
 FONT="/home/claude/planes-img/node_modules/@fontsource/poppins/files/poppins-latin-%s-normal.woff2"
 ICON="/home/claude/logo/final/palma-icono-1024.png"
 CSS="""@font-face{font-family:P;src:url(F4);font-weight:400}@font-face{font-family:P;src:url(F6);font-weight:600}@font-face{font-family:P;src:url(F8);font-weight:800}
@@ -61,5 +63,6 @@ async def main():
         sheet=Image.new('RGB',(cols*w+ (w*1080//1920*0+260) ,max(rows*h,640)),'#e9e4ee')
         for k,im in enumerate(ims): sheet.paste(im.resize((w,h)),((k%cols)*w,(k//cols)*h))
         sheet.paste(st.resize((240,427)),(cols*w+10,10)); sheet.save(f'out/vista-{c["id"]}.png')
-    json.dump({c["id"]:c["files"] for c in C},open('out/archivos.json','w'),indent=1)
+    prev=json.load(open('out/archivos.json')) if os.path.exists('out/archivos.json') else {}
+    prev.update({c["id"]:c["files"] for c in C}); json.dump(prev,open('out/archivos.json','w'),indent=1)
 asyncio.run(main())
