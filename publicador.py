@@ -82,9 +82,13 @@ def publicar_ig(p):
             c = api("POST", f"{IG}/{IG_USER}/media", media_type="STORIES", video_url=url(p["video"]), access_token=TOKEN)
         else:
             c = api("POST", f"{IG}/{IG_USER}/media", media_type="STORIES", image_url=url(p["imagenes"][0]), access_token=TOKEN)
-    elif tipo == "reel":
+    elif tipo in ("reel", "reel_prueba"):
         extra = {"cover_url": url(p["portada"])} if p.get("portada") else {}
-        c = api("POST", f"{IG}/{IG_USER}/media", media_type="REELS", video_url=url(p["video"]), caption=texto, share_to_feed="true", access_token=TOKEN, **extra)
+        if tipo == "reel_prueba":
+            extra["trial_params"] = json.dumps({"graduation_strategy": p.get("graduacion", "MANUAL")})
+        else:
+            extra["share_to_feed"] = "true"
+        c = api("POST", f"{IG}/{IG_USER}/media", media_type="REELS", video_url=url(p["video"]), caption=texto, access_token=TOKEN, **extra)
     else:
         raise RuntimeError(f"Tipo desconocido: {tipo}")
     esperar(c["id"])
@@ -104,7 +108,7 @@ def page_token():
 
 def publicar_fb(p):
     page_token()
-    if not (FB_TOKEN and FB_PAGE) or not p.get("facebook", True) or p["tipo"] == "historia":
+    if not (FB_TOKEN and FB_PAGE) or not p.get("facebook", True) or p["tipo"] in ("historia", "reel_prueba"):
         return None
     texto = p.get("texto", "")
     if p["tipo"] == "reel":
@@ -153,6 +157,7 @@ def publicar():
 METRICAS = {
     "carrusel": "reach,views,likes,comments,saved,shares,total_interactions,follows,profile_visits",
     "imagen": "reach,views,likes,comments,saved,shares,total_interactions,follows,profile_visits",
+    "reel_prueba": "reach,views,likes,comments,saved,shares,total_interactions,ig_reels_avg_watch_time,ig_reels_video_view_total_time",
     "reel": "reach,views,likes,comments,saved,shares,total_interactions,ig_reels_avg_watch_time,ig_reels_video_view_total_time",
     "historia": "reach,views,replies,shares,total_interactions,navigation",
 }
