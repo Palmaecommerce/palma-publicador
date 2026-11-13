@@ -1,0 +1,240 @@
+{
+  "c02-pedidos-por-audio": {
+    "ig_id": "18208988008371066",
+    "fb_id": null,
+    "tipo": "carrusel",
+    "tema": "dolor",
+    "fecha_programada": "2026-11-12T12:15:00-03:00",
+    "publicado": "2026-11-12T15:21:28.730224+00:00",
+    "metricas": {
+      "reach": 1,
+      "views": 5,
+      "likes": 2,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
+    },
+    "actualizado": "2026-11-13T10:07:43.196165+00:00"
+  },
+  "c02-pedidos-por-audio-historia": {
+    "ig_id": "18127743280903211",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "dolor",
+    "fecha_programada": "2026-11-12T12:16:00-03:00",
+    "publicado": "2026-11-12T15:21:28.730224+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:07:47.006705+00:00"
+  },
+  "v2-c03-como-armamos": {
+    "ig_id": "18094398005227427",
+    "fb_id": "1389049390961304_122109586989520453",
+    "tipo": "carrusel",
+    "tema": "proceso",
+    "fecha_programada": "2026-11-12T12:35:00-03:00",
+    "publicado": "2026-11-12T15:37:08.039910+00:00",
+    "metricas": {
+      "reach": 3,
+      "views": 5,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
+    },
+    "actualizado": "2026-11-13T10:07:49.220242+00:00"
+  },
+  "v2-c03-como-armamos-historia": {
+    "ig_id": "17894730216653684",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "proceso",
+    "fecha_programada": "2026-11-12T12:36:00-03:00",
+    "publicado": "2026-11-12T15:37:08.039910+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:07:53.922482+00:00"
+  },
+  "v2-c08-revendedoras": {
+    "ig_id": "18582793789073427",
+    "fb_id": "1389049390961304_122109600267520453",
+    "tipo": "carrusel",
+    "tema": "recompra",
+    "fecha_programada": "2026-11-12T13:00:00-03:00",
+    "publicado": "2026-11-12T16:52:29.232659+00:00",
+    "metricas": {
+      "reach": 3,
+      "views": 10,
+      "likes": 2,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
+    },
+    "actualizado": "2026-11-13T10:07:56.273738+00:00"
+  },
+  "v2-c08-revendedoras-historia": {
+    "ig_id": "18123396737094105",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "recompra",
+    "fecha_programada": "2026-11-12T13:01:00-03:00",
+    "publicado": "2026-11-12T16:52:29.232659+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:08:00.655082+00:00"
+  },
+  "v2-c04v2": {
+    "ig_id": "18007657616794521",
+    "fb_id": "1389049390961304_122109609783520453",
+    "tipo": "carrusel",
+    "tema": "alcance",
+    "fecha_programada": "2026-11-12T14:00:00-03:00",
+    "publicado": "2026-11-12T17:49:53.633084+00:00",
+    "metricas": {
+      "reach": 1,
+      "views": 4,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
+    },
+    "actualizado": "2026-11-13T10:08:02.845535+00:00"
+  },
+  "v2-c04v2-historia": {
+    "ig_id": "18109577180199645",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "alcance",
+    "fecha_programada": "2026-11-12T14:01:00-03:00",
+    "publicado": "2026-11-12T17:49:53.633084+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:08:06.683131+00:00"
+  },
+  "v2-c05v2-historia": {
+    "ig_id": "18242439733316694",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "educativo",
+    "fecha_programada": "2026-11-12T15:01:00-03:00",
+    "publicado": "2026-11-12T18:51:38.394676+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:08:10.442997+00:00"
+  },
+  "v2-c06v2-historia": {
+    "ig_id": "18100773611537951",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "precios",
+    "fecha_programada": "2026-11-12T17:01:00-03:00",
+    "publicado": "2026-11-12T20:48:12.452156+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:08:14.638323+00:00"
+  },
+  "v2-c07v2-historia": {
+    "ig_id": "18103353947381891",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "confianza",
+    "fecha_programada": "2026-11-12T19:01:00-03:00",
+    "publicado": "2026-11-12T22:43:58.533095+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:08:18.718626+00:00"
+  },
+  "v2-c09v2-historia": {
+    "ig_id": "18117700316123068",
+    "fb_id": null,
+    "tipo": "historia",
+    "tema": "publicidad",
+    "fecha_programada": "2026-11-12T21:01:00-03:00",
+    "publicado": "2026-11-13T00:59:50.335428+00:00",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "replies",
+        "shares",
+        "total_interactions",
+        "navigation"
+      ]
+    },
+    "actualizado": "2026-11-13T10:08:23.125379+00:00"
+  },
+  "_cuenta": {
+    "id": "17841414669238656",
+    "followers_count": 3,
+    "media_count": 105,
+    "username": "palma.ecommerce"
+  }
+}
