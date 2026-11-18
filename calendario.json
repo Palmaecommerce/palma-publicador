@@ -1,888 +1,888 @@
 [
-  {
-    "id": "c01-quienes-somos",
-    "fecha": "2026-11-13T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "marca",
-    "imagenes": [
-      "c01-quienes-somos-01.jpg",
-      "c01-quienes-somos-02.jpg",
-      "c01-quienes-somos-03.jpg",
-      "c01-quienes-somos-04.jpg",
-      "c01-quienes-somos-05.jpg"
-    ],
-    "texto": "Somos Palma Ecommerce, un equipo Partner certificado de Tiendanube.\n\nArmamos tu tienda online con todos tus productos cargados y te ayudamos a vender más con publicidad en Instagram y Facebook.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis de cómo vendés hoy.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c01-quienes-somos-historia",
-    "fecha": "2026-11-13T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "marca",
-    "imagenes": [
-      "c01-quienes-somos-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c02-pedidos-por-audio",
-    "fecha": "2026-11-12T12:15:00-03:00",
-    "tipo": "carrusel",
-    "tema": "dolor",
-    "imagenes": [
-      "c02v2-01.jpg",
-      "c02v2-02.jpg",
-      "c02v2-03.jpg",
-      "c02v2-04.jpg",
-      "c02v2-05.jpg",
-      "c02v2-06.jpg",
-      "c02v2-07.jpg"
-    ],
-    "texto": "¿Te pasa alguna de estas? Contá cuántas en los comentarios 👇\n\nSi te pasan 2 o más, tu negocio ya necesita una tienda online. Te la armamos y te cargamos todos los productos: los pedidos llegan armados, el stock se descuenta solo y cada cliente queda guardado para volver a venderle.\n\nSomos Partner certificado de Tiendanube. Escribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "c02-pedidos-por-audio-historia",
-    "fecha": "2026-11-12T12:16:00-03:00",
-    "tipo": "historia",
-    "tema": "dolor",
-    "imagenes": [
-      "c02-pedidos-por-audio-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "c03-como-armamos",
-    "fecha": "2026-11-13T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "proceso",
-    "imagenes": [
-      "c03-como-armamos-01.jpg",
-      "c03-como-armamos-02.jpg",
-      "c03-como-armamos-03.jpg",
-      "c03-como-armamos-04.jpg",
-      "c03-como-armamos-05.jpg",
-      "c03-como-armamos-06.jpg"
-    ],
-    "texto": "Así armamos tu tienda online, paso a paso.\n\nVos nos pasás fotos y precios. Nosotros armamos el diseño y cargamos todos los productos. La ves terminada y, si no te gusta, no pagás el 50% restante.\n\nEl primer paso es un diagnóstico gratis: escribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #ecommerce #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c03-como-armamos-historia",
-    "fecha": "2026-11-13T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "proceso",
-    "imagenes": [
-      "c03-como-armamos-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c04-tienda-mayorista",
-    "fecha": "2026-11-14T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "mayorista",
-    "imagenes": [
-      "c04-tienda-mayorista-01.jpg",
-      "c04-tienda-mayorista-02.jpg",
-      "c04-tienda-mayorista-03.jpg",
-      "c04-tienda-mayorista-04.jpg",
-      "c04-tienda-mayorista-05.jpg",
-      "c04-tienda-mayorista-06.jpg",
-      "c04-tienda-mayorista-07.jpg"
-    ],
-    "texto": "Una tienda mayorista bien armada te toma los pedidos mientras vos atendés el local.\n\nMínimo de compra, seña, retiro o envío, stock que se descuenta solo y el contacto de cada cliente guardado.\n\nEscribinos por WhatsApp al 11 6791-5562 y te mostramos cómo quedaría la tuya.\n\n#mayoristas #ventamayorista #tiendanube #flores #lasalada",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c04-tienda-mayorista-historia",
-    "fecha": "2026-11-14T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "mayorista",
-    "imagenes": [
-      "c04-tienda-mayorista-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c05-errores-tienda",
-    "fecha": "2026-11-14T14:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "educativo",
-    "imagenes": [
-      "c05-errores-tienda-01.jpg",
-      "c05-errores-tienda-02.jpg",
-      "c05-errores-tienda-03.jpg",
-      "c05-errores-tienda-04.jpg",
-      "c05-errores-tienda-05.jpg",
-      "c05-errores-tienda-06.jpg",
-      "c05-errores-tienda-07.jpg"
-    ],
-    "texto": "5 errores que vemos todo el tiempo en tiendas que no venden.\n\nGuardá este post y revisá la tuya. Si querés, te la revisamos nosotros y te decimos qué mejorar, gratis.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendaonline #ecommerce #tiendanube #emprendedores #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c05-errores-tienda-historia",
-    "fecha": "2026-11-14T14:05:00-03:00",
-    "tipo": "historia",
-    "tema": "educativo",
-    "imagenes": [
-      "c05-errores-tienda-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c06-planes",
-    "fecha": "2026-11-14T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "precios",
-    "imagenes": [
-      "c06-planes-01.jpg",
-      "c06-planes-02.jpg",
-      "c06-planes-03.jpg",
-      "c06-planes-04.jpg",
-      "c06-planes-05.jpg",
-      "c06-planes-06.jpg"
-    ],
-    "texto": "Precios claros, sin comisión sobre tus ventas.\n\nPremium, Medio e Inicial: todos incluyen la tienda armada con tus productos cargados. La inversión en publicidad la pagás aparte, directo a Meta. Precios de lanzamiento para las primeras 5 marcas, vigentes en noviembre de 2026.\n\nEscribinos por WhatsApp al 11 6791-5562 y te decimos cuál te conviene.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c06-planes-historia",
-    "fecha": "2026-11-14T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "precios",
-    "imagenes": [
-      "c06-planes-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c07-garantia",
-    "fecha": "2026-11-15T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "confianza",
-    "imagenes": [
-      "c07-garantia-01.jpg",
-      "c07-garantia-02.jpg",
-      "c07-garantia-03.jpg",
-      "c07-garantia-04.jpg",
-      "c07-garantia-05.jpg"
-    ],
-    "texto": "Entendemos la desconfianza con las agencias. Por eso trabajamos con 2 garantías:\n\nSi la tienda no te gusta, no pagás el 50% restante.\nSi en 10 días hábiles tus campañas no están publicadas, ese mes no se paga.\n\nEscribinos por WhatsApp al 11 6791-5562 y preguntanos lo que quieras.\n\n#tiendanube #tiendaonline #emprendedores #ecommerce #agenciadigital",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c07-garantia-historia",
-    "fecha": "2026-11-15T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "confianza",
-    "imagenes": [
-      "c07-garantia-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c08-revendedoras",
-    "fecha": "2026-11-15T14:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "recompra",
-    "imagenes": [
-      "c08-revendedoras-01.jpg",
-      "c08-revendedoras-02.jpg",
-      "c08-revendedoras-03.jpg",
-      "c08-revendedoras-04.jpg",
-      "c08-revendedoras-05.jpg",
-      "c08-revendedoras-06.jpg"
-    ],
-    "texto": "Conseguir una revendedora nueva cuesta mucho más que volver a venderle a la que ya te compró.\n\nCon una tienda online guardás su contacto, le avisás cuando entra mercadería y le volvés a aparecer con publicidad.\n\nEscribinos por WhatsApp al 11 6791-5562 y te armamos el sistema.\n\n#revendedoras #mayoristas #tiendanube #ventasonline #emprendedores",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c08-revendedoras-historia",
-    "fecha": "2026-11-15T14:05:00-03:00",
-    "tipo": "historia",
-    "tema": "recompra",
-    "imagenes": [
-      "c08-revendedoras-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c09-publicidad-whatsapp",
-    "fecha": "2026-11-15T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "publicidad",
-    "imagenes": [
-      "c09-publicidad-whatsapp-01.jpg",
-      "c09-publicidad-whatsapp-02.jpg",
-      "c09-publicidad-whatsapp-03.jpg",
-      "c09-publicidad-whatsapp-04.jpg",
-      "c09-publicidad-whatsapp-05.jpg",
-      "c09-publicidad-whatsapp-06.jpg"
-    ],
-    "texto": "La publicidad que más usamos con marcas que venden por WhatsApp: el anuncio abre un chat directo con vos.\n\nArmamos el anuncio con tus fotos, lo mostramos en tu zona o en todo el país, y medimos cuánto invertiste y cuánto vendiste.\n\nEscribinos por WhatsApp al 11 6791-5562 y te contamos cómo sería para tu marca.\n\n#publicidadenredes #metaads #whatsappbusiness #emprendedores #tiendanube",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c09-publicidad-whatsapp-historia",
-    "fecha": "2026-11-15T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "publicidad",
-    "imagenes": [
-      "c09-publicidad-whatsapp-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c10-ventas-de-noche",
-    "fecha": "2026-11-16T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "dolor",
-    "imagenes": [
-      "c10-ventas-de-noche-01.jpg",
-      "c10-ventas-de-noche-02.jpg",
-      "c10-ventas-de-noche-03.jpg",
-      "c10-ventas-de-noche-04.jpg",
-      "c10-ventas-de-noche-05.jpg"
-    ],
-    "texto": "Cada mensaje que no contestás a la noche puede ser una venta que se lleva otro.\n\nCon una tienda online el cliente elige, arma el pedido y paga solo, a cualquier hora. Y vos seguís atendiendo por WhatsApp como siempre.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c10-ventas-de-noche-historia",
-    "fecha": "2026-11-16T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "dolor",
-    "imagenes": [
-      "c10-ventas-de-noche-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c11-instagram-bloqueado",
-    "fecha": "2026-11-16T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "riesgo",
-    "imagenes": [
-      "c11-instagram-bloqueado-01.jpg",
-      "c11-instagram-bloqueado-02.jpg",
-      "c11-instagram-bloqueado-03.jpg",
-      "c11-instagram-bloqueado-04.jpg",
-      "c11-instagram-bloqueado-05.jpg"
-    ],
-    "texto": "Instagram es una vidriera buenísima, pero no es tuya. Si te bloquean o te hackean la cuenta, perdés el contacto con tus clientes.\n\nEn tu tienda online cada comprador queda guardado con su nombre, WhatsApp y email.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c11-instagram-bloqueado-historia",
-    "fecha": "2026-11-16T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "riesgo",
-    "imagenes": [
-      "c11-instagram-bloqueado-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c12-que-necesitas",
-    "fecha": "2026-11-17T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "proceso",
-    "imagenes": [
-      "c12-que-necesitas-01.jpg",
-      "c12-que-necesitas-02.jpg",
-      "c12-que-necesitas-03.jpg",
-      "c12-que-necesitas-04.jpg",
-      "c12-que-necesitas-05.jpg"
-    ],
-    "texto": "Para armar tu tienda necesitás mucho menos de lo que pensás: fotos, precios y talles. Del resto nos encargamos nosotros.\n\nNo hace falta que sepas de computación ni que cargues un solo producto.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c12-que-necesitas-historia",
-    "fecha": "2026-11-17T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "proceso",
-    "imagenes": [
-      "c12-que-necesitas-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c13-fotos-celular",
-    "fecha": "2026-11-17T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "educativo",
-    "imagenes": [
-      "c13-fotos-celular-01.jpg",
-      "c13-fotos-celular-02.jpg",
-      "c13-fotos-celular-03.jpg",
-      "c13-fotos-celular-04.jpg",
-      "c13-fotos-celular-05.jpg",
-      "c13-fotos-celular-06.jpg",
-      "c13-fotos-celular-07.jpg"
-    ],
-    "texto": "No hace falta un fotógrafo para tener fotos que vendan. Con el celular, luz natural y un fondo limpio ya estás a mitad de camino.\n\nGuardá este post para la próxima vez que saques fotos.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c13-fotos-celular-historia",
-    "fecha": "2026-11-17T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "educativo",
-    "imagenes": [
-      "c13-fotos-celular-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c14-rubros",
-    "fecha": "2026-11-18T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "rubros",
-    "imagenes": [
-      "c14-rubros-01.jpg",
-      "c14-rubros-02.jpg",
-      "c14-rubros-03.jpg",
-      "c14-rubros-04.jpg",
-      "c14-rubros-05.jpg",
-      "c14-rubros-06.jpg"
-    ],
-    "texto": "Si se puede sacar una foto y ponerle un precio, se puede vender online.\n\nArmamos tiendas de ropa, bebé, lencería, calzado, accesorios, bazar, cosmética y más. Por mayor, por menor o las dos cosas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c14-rubros-historia",
-    "fecha": "2026-11-18T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "rubros",
-    "imagenes": [
-      "c14-rubros-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c15-mitos",
-    "fecha": "2026-11-18T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "objeciones",
-    "imagenes": [
-      "c15-mitos-01.jpg",
-      "c15-mitos-02.jpg",
-      "c15-mitos-03.jpg",
-      "c15-mitos-04.jpg",
-      "c15-mitos-05.jpg"
-    ],
-    "texto": "Desarmamos 3 mitos que escuchamos todo el tiempo.\n\nUna tienda online no reemplaza a tu WhatsApp ni a tu local: suma un canal que vende solo.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c15-mitos-historia",
-    "fecha": "2026-11-18T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "objeciones",
-    "imagenes": [
-      "c15-mitos-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c16-temporada",
-    "fecha": "2026-11-19T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "temporada",
-    "imagenes": [
-      "c16-temporada-01.jpg",
-      "c16-temporada-02.jpg",
-      "c16-temporada-03.jpg",
-      "c16-temporada-04.jpg",
-      "c16-temporada-05.jpg"
-    ],
-    "texto": "Diciembre es de los meses que más venden y armar una tienda bien lleva entre 7 y 14 días.\n\nSi querés llegar a las fiestas con tu tienda andando y con publicidad, este es el momento de arrancar.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c16-temporada-historia",
-    "fecha": "2026-11-19T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "temporada",
-    "imagenes": [
-      "c16-temporada-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c17-lista-clientes",
-    "fecha": "2026-11-19T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "email",
-    "imagenes": [
-      "c17-lista-clientes-01.jpg",
-      "c17-lista-clientes-02.jpg",
-      "c17-lista-clientes-03.jpg",
-      "c17-lista-clientes-04.jpg",
-      "c17-lista-clientes-05.jpg"
-    ],
-    "texto": "Tus seguidores ven tus posts solo cuando Instagram decide mostrárselos. A tus clientes con email y WhatsApp les llegás cuando vos querés.\n\nCon una tienda online esa lista se arma sola, con cada compra.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c17-lista-clientes-historia",
-    "fecha": "2026-11-19T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "email",
-    "imagenes": [
-      "c17-lista-clientes-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c18-respuestas-rapidas",
-    "fecha": "2026-11-20T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "educativo",
-    "imagenes": [
-      "c18-respuestas-rapidas-01.jpg",
-      "c18-respuestas-rapidas-02.jpg",
-      "c18-respuestas-rapidas-03.jpg",
-      "c18-respuestas-rapidas-04.jpg",
-      "c18-respuestas-rapidas-05.jpg",
-      "c18-respuestas-rapidas-06.jpg",
-      "c18-respuestas-rapidas-07.jpg"
-    ],
-    "texto": "Si escribís lo mismo 50 veces por día, las respuestas rápidas de WhatsApp Business te ahorran horas.\n\nEscribís la barra y la palabra, por ejemplo /precios, y sale el mensaje completo. Guardá este post y armá las tuyas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c18-respuestas-rapidas-historia",
-    "fecha": "2026-11-20T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "educativo",
-    "imagenes": [
-      "c18-respuestas-rapidas-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c19-preguntas-frecuentes",
-    "fecha": "2026-11-20T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "objeciones",
-    "imagenes": [
-      "c19-preguntas-frecuentes-01.jpg",
-      "c19-preguntas-frecuentes-02.jpg",
-      "c19-preguntas-frecuentes-03.jpg",
-      "c19-preguntas-frecuentes-04.jpg",
-      "c19-preguntas-frecuentes-05.jpg",
-      "c19-preguntas-frecuentes-06.jpg"
-    ],
-    "texto": "Las 4 preguntas que más nos hacen antes de arrancar.\n\nLa tienda queda a tu nombre, tarda entre 7 y 14 días, no necesitás saber de computación y no cobramos comisión sobre tus ventas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c19-preguntas-frecuentes-historia",
-    "fecha": "2026-11-20T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "objeciones",
-    "imagenes": [
-      "c19-preguntas-frecuentes-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c20-que-plan-elegir",
-    "fecha": "2026-11-21T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "precios",
-    "imagenes": [
-      "c20-que-plan-elegir-01.jpg",
-      "c20-que-plan-elegir-02.jpg",
-      "c20-que-plan-elegir-03.jpg",
-      "c20-que-plan-elegir-04.jpg",
-      "c20-que-plan-elegir-05.jpg"
-    ],
-    "texto": "¿Recién arrancás? Inicial. ¿Ya vendés todos los días? Medio. ¿Querés escalar fuerte? Premium.\n\nSi no estás seguro, escribinos y lo vemos juntos.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c20-que-plan-elegir-historia",
-    "fecha": "2026-11-21T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "precios",
-    "imagenes": [
-      "c20-que-plan-elegir-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c21-diagnostico",
-    "fecha": "2026-11-21T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "oferta",
-    "imagenes": [
-      "c21-diagnostico-01.jpg",
-      "c21-diagnostico-02.jpg",
-      "c21-diagnostico-03.jpg",
-      "c21-diagnostico-04.jpg",
-      "c21-diagnostico-05.jpg"
-    ],
-    "texto": "Te revisamos cómo vendés hoy y te decimos qué mejorar primero. Gratis y sin compromiso.\n\nMiramos tu Instagram, tus fotos, cómo te piden y cómo cobrás, y si ya tenés tienda, también.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c21-diagnostico-historia",
-    "fecha": "2026-11-21T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "oferta",
-    "imagenes": [
-      "c21-diagnostico-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c22-envios",
-    "fecha": "2026-11-22T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "educativo",
-    "imagenes": [
-      "c22-envios-01.jpg",
-      "c22-envios-02.jpg",
-      "c22-envios-03.jpg",
-      "c22-envios-04.jpg",
-      "c22-envios-05.jpg",
-      "c22-envios-06.jpg"
-    ],
-    "texto": "Retiro en el local, moto en el día, correo a todo el país y envío gratis desde un monto: todo se puede configurar en tu tienda.\n\nEl cliente ve el costo antes de pagar y vos no tenés que calcular nada.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c22-envios-historia",
-    "fecha": "2026-11-22T10:05:00-03:00",
-    "tipo": "historia",
-    "tema": "educativo",
-    "imagenes": [
-      "c22-envios-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "c23-equipo",
-    "fecha": "2026-11-22T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "marca",
-    "imagenes": [
-      "c23-equipo-01.jpg",
-      "c23-equipo-02.jpg",
-      "c23-equipo-03.jpg",
-      "c23-equipo-04.jpg",
-      "c23-equipo-05.jpg"
-    ],
-    "texto": "Somos un equipo chico a propósito: trabajamos con pocas marcas a la vez para hacer cada tienda bien.\n\nUsamos inteligencia artificial para cargar productos y armar anuncios más rápido, pero hablás siempre con personas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
-    "facebook": true,
-    "aprobado": false
-  },
-  {
-    "id": "c23-equipo-historia",
-    "fecha": "2026-11-22T19:05:00-03:00",
-    "tipo": "historia",
-    "tema": "marca",
-    "imagenes": [
-      "c23-equipo-historia.jpg"
-    ],
-    "aprobado": false
-  },
-  {
-    "id": "v2-c03-como-armamos",
-    "fecha": "2026-11-12T12:35:00-03:00",
-    "tipo": "carrusel",
-    "tema": "proceso",
-    "imagenes": [
-      "c03v2-01.jpg",
-      "c03v2-02.jpg",
-      "c03v2-03.jpg",
-      "c03v2-04.jpg",
-      "c03v2-05.jpg",
-      "c03v2-06.jpg"
-    ],
-    "texto": "Así armamos tu tienda online, en 4 pasos y sin que cargues ni un producto.\n\n1. Diagnóstico gratis por WhatsApp.\n2. Nos pasás fotos, precios y talles.\n3. Armamos el diseño y cargamos todo.\n4. La ves y la aprobás. Si no te gusta, no pagás el 50% restante.\n\nSomos Partner certificado de Tiendanube. Escribinos al 11 6791-5562 y arrancamos con el paso 1.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c03-como-armamos-historia",
-    "fecha": "2026-11-12T12:36:00-03:00",
-    "tipo": "historia",
-    "tema": "proceso",
-    "imagenes": [
-      "c03-como-armamos-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "reel01-A-prueba",
-    "fecha": "2026-11-12T15:00:00-03:00",
-    "tipo": "reel_prueba",
-    "tema": "dolor",
-    "video": "reel01-A.mp4",
-    "portada": "reel01-A-portada.jpg",
-    "texto": "¿Te pasa? Los pedidos te llegan por audio, foto y mensaje suelto.\n\nCon una tienda online el pedido llega armado, el stock se descuenta solo y cada cliente queda guardado. Te la armamos y cargamos todos tus productos.\n\nPartner certificado de Tiendanube. Diagnóstico gratis por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
-    "aprobado": false,
-    "variante": "A"
-  },
-  {
-    "id": "reel01-B-prueba",
-    "fecha": "2026-11-12T17:00:00-03:00",
-    "tipo": "reel_prueba",
-    "tema": "dolor",
-    "video": "reel01-B.mp4",
-    "portada": "reel01-B-portada.jpg",
-    "texto": "¿Te pasa? Los pedidos te llegan por audio, foto y mensaje suelto.\n\nCon una tienda online el pedido llega armado, el stock se descuenta solo y cada cliente queda guardado. Te la armamos y cargamos todos tus productos.\n\nPartner certificado de Tiendanube. Diagnóstico gratis por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
-    "aprobado": false,
-    "variante": "B"
-  },
-  {
-    "id": "v2-c08-revendedoras",
-    "fecha": "2026-11-12T13:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "recompra",
-    "imagenes": [
-      "c08v2-01.jpg",
-      "c08v2-02.jpg",
-      "c08v2-03.jpg",
-      "c08v2-04.jpg",
-      "c08v2-05.jpg",
-      "c08v2-06.jpg"
-    ],
-    "texto": "¿Te pasa? La revendedora compra una vez y después no vuelve a escribir.\n\nNo es que no le gustó: es que no tenés cómo volver a hablarle. Con tu tienda online guardás su contacto, le avisás cuando entra mercadería, le das un cupón para la segunda compra y le volvés a aparecer con publicidad.\n\nTe armamos la tienda y el sistema. Somos Partner certificado de Tiendanube. Escribinos al 11 6791-5562.\n\n#revendedoras #mayoristas #tiendanube #ventasonline #emprendedoresargentinos",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c08-revendedoras-historia",
-    "fecha": "2026-11-12T13:01:00-03:00",
-    "tipo": "historia",
-    "tema": "recompra",
-    "imagenes": [
-      "c08-revendedoras-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "v2-c04v2",
-    "fecha": "2026-11-12T14:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "alcance",
-    "seo": "Vender por mayor a todo el país sin moverte de tu local",
-    "imagenes": [
-      "c04v2-01.jpg",
-      "c04v2-02.jpg",
-      "c04v2-03.jpg",
-      "c04v2-04.jpg",
-      "c04v2-05.jpg",
-      "c04v2-06.jpg",
-      "c04v2-07.jpg"
-    ],
-    "texto": "Cómo vender a revendedoras de todo el país con tu tienda online mayorista 👇\n\nTe encuentran por Instagram y Facebook, arman el pedido solas, el envío se calcula solo con el código postal y cada clienta queda guardada para volver a venderle.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#ventamayorista #tiendaonline #revendedoras #tiendanube #mayoristas",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c04v2-historia",
-    "fecha": "2026-11-12T14:01:00-03:00",
-    "tipo": "historia",
-    "tema": "alcance",
-    "imagenes": [
-      "c04v2-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "v2-c05v2",
-    "fecha": "2026-11-12T15:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "educativo",
-    "seo": "5 errores que hacen que tu tienda online no venda",
-    "imagenes": [
-      "c05v2-01.jpg",
-      "c05v2-02.jpg",
-      "c05v2-03.jpg",
-      "c05v2-04.jpg",
-      "c05v2-05.jpg",
-      "c05v2-06.jpg",
-      "c05v2-07.jpg"
-    ],
-    "texto": "¿Tu tienda online no vende? Revisá estos 5 errores 👇 Guardalo para cuando revises la tuya.\n\n1. Fotos oscuras o borrosas. 2. Productos sin precio. 3. Sin talles ni medidas. 4. Envío poco claro. 5. Nadie responde.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #ventasonline #emprendedoresargentinos #tiendanube #ecommerce",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c05v2-historia",
-    "fecha": "2026-11-12T15:01:00-03:00",
-    "tipo": "historia",
-    "tema": "educativo",
-    "imagenes": [
-      "c05v2-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "v2-c06v2",
-    "fecha": "2026-11-12T17:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "precios",
-    "seo": "Cuánto cuesta una tienda online Tiendanube armada",
-    "imagenes": [
-      "c06v2-01.jpg",
-      "c06v2-02.jpg",
-      "c06v2-03.jpg",
-      "c06v2-04.jpg",
-      "c06v2-05.jpg",
-      "c06v2-06.jpg"
-    ],
-    "texto": "¿Cuánto cuesta tener tu tienda online armada? Te mostramos los 3 planes, con precios claros y sin comisión sobre tus ventas 👇\n\nInicial $350.000 + $65.000/mes · Medio $590.000 + $330.000/mes · Premium $890.000 + $620.000/mes. La publicidad se paga aparte, directo a Meta. Precios de lanzamiento de noviembre de 2026.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c06v2-historia",
-    "fecha": "2026-11-12T17:01:00-03:00",
-    "tipo": "historia",
-    "tema": "precios",
-    "imagenes": [
-      "c06v2-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "v2-c07v2",
-    "fecha": "2026-11-12T19:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "confianza",
-    "seo": "Garantía: tienda online sin riesgo",
-    "imagenes": [
-      "c07v2-01.jpg",
-      "c07v2-02.jpg",
-      "c07v2-03.jpg",
-      "c07v2-04.jpg",
-      "c07v2-05.jpg"
-    ],
-    "texto": "¿Y si pago y no me hacen nada? Por eso trabajamos con 2 garantías 👇\n\nSi la tienda no te gusta, no pagás el 50% restante. Si en 10 días hábiles tus campañas no están publicadas, ese mes no se paga. Y todo queda a tu nombre.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #emprendedores #ecommerce #agenciadigital",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c07v2-historia",
-    "fecha": "2026-11-12T19:01:00-03:00",
-    "tipo": "historia",
-    "tema": "confianza",
-    "imagenes": [
-      "c07v2-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "v2-c09v2",
-    "fecha": "2026-11-12T21:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "publicidad",
-    "seo": "Publicidad en Instagram y Facebook que trae mensajes a WhatsApp",
-    "imagenes": [
-      "c09v2-01.jpg",
-      "c09v2-02.jpg",
-      "c09v2-03.jpg",
-      "c09v2-04.jpg",
-      "c09v2-05.jpg",
-      "c09v2-06.jpg"
-    ],
-    "texto": "Publicidad en Instagram y Facebook que te llena el WhatsApp de consultas 👇\n\nArmamos el anuncio con tus fotos, la gente te escribe directo, vos vendés y medimos cuánto invertiste y cuánto vendiste.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#publicidadenredes #metaads #whatsappbusiness #emprendedoresargentinos #tiendanube",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c09v2-historia",
-    "fecha": "2026-11-12T21:01:00-03:00",
-    "tipo": "historia",
-    "tema": "publicidad",
-    "imagenes": [
-      "c09v2-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "v2-c10v2",
-    "fecha": "2026-11-13T10:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "dolor",
-    "seo": "Tienda online que vende las 24 horas",
-    "imagenes": [
-      "c10v2-01.jpg",
-      "c10v2-02.jpg",
-      "c10v2-03.jpg",
-      "c10v2-04.jpg",
-      "c10v2-05.jpg"
-    ],
-    "texto": "Tu tienda online vende las 24 horas, aunque estés durmiendo 👇\n\nSin tienda, el que te escribe a la noche a la mañana ya le compró a otro. Con tienda, te despertás con la venta hecha. Y seguís atendiendo por WhatsApp como siempre.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #ventasonline #tiendanube #emprendedoresargentinos #ecommerce",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c10v2-historia",
-    "fecha": "2026-11-13T10:01:00-03:00",
-    "tipo": "historia",
-    "tema": "dolor",
-    "imagenes": [
-      "c10v2-historia.jpg"
-    ],
-    "aprobado": true
-  },
-  {
-    "id": "v2-c11v2",
-    "fecha": "2026-11-13T13:00:00-03:00",
-    "tipo": "carrusel",
-    "tema": "riesgo",
-    "seo": "Por qué tener tienda online además de Instagram",
-    "imagenes": [
-      "c11v2-01.jpg",
-      "c11v2-02.jpg",
-      "c11v2-03.jpg",
-      "c11v2-04.jpg",
-      "c11v2-05.jpg"
-    ],
-    "texto": "Si mañana te bloquean Instagram, ¿dónde quedan tus clientes? 👇\n\nInstagram no es tuyo: una cuenta se puede bloquear o hackear. Tu tienda online sí: tus productos, tus ventas y la lista de todos tus clientes.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #emprendedoresargentinos #tiendanube #ventasonline #mayoristas",
-    "facebook": true,
-    "aprobado": true
-  },
-  {
-    "id": "v2-c11v2-historia",
-    "fecha": "2026-11-13T13:01:00-03:00",
-    "tipo": "historia",
-    "tema": "riesgo",
-    "imagenes": [
-      "c11v2-historia.jpg"
-    ],
-    "aprobado": true
-  }
+ {
+  "id": "c01-quienes-somos",
+  "fecha": "2026-11-13T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "marca",
+  "imagenes": [
+   "c01-quienes-somos-01.jpg",
+   "c01-quienes-somos-02.jpg",
+   "c01-quienes-somos-03.jpg",
+   "c01-quienes-somos-04.jpg",
+   "c01-quienes-somos-05.jpg"
+  ],
+  "texto": "Somos Palma Ecommerce, un equipo Partner certificado de Tiendanube.\n\nArmamos tu tienda online con todos tus productos cargados y te ayudamos a vender más con publicidad en Instagram y Facebook.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis de cómo vendés hoy.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c01-quienes-somos-historia",
+  "fecha": "2026-11-13T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "marca",
+  "imagenes": [
+   "c01-quienes-somos-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c02-pedidos-por-audio",
+  "fecha": "2026-11-12T12:15:00-03:00",
+  "tipo": "carrusel",
+  "tema": "dolor",
+  "imagenes": [
+   "c02v2-01.jpg",
+   "c02v2-02.jpg",
+   "c02v2-03.jpg",
+   "c02v2-04.jpg",
+   "c02v2-05.jpg",
+   "c02v2-06.jpg",
+   "c02v2-07.jpg"
+  ],
+  "texto": "¿Te pasa alguna de estas? Contá cuántas en los comentarios 👇\n\nSi te pasan 2 o más, tu negocio ya necesita una tienda online. Te la armamos y te cargamos todos los productos: los pedidos llegan armados, el stock se descuenta solo y cada cliente queda guardado para volver a venderle.\n\nSomos Partner certificado de Tiendanube. Escribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "c02-pedidos-por-audio-historia",
+  "fecha": "2026-11-12T12:16:00-03:00",
+  "tipo": "historia",
+  "tema": "dolor",
+  "imagenes": [
+   "c02-pedidos-por-audio-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "c03-como-armamos",
+  "fecha": "2026-11-13T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "proceso",
+  "imagenes": [
+   "c03-como-armamos-01.jpg",
+   "c03-como-armamos-02.jpg",
+   "c03-como-armamos-03.jpg",
+   "c03-como-armamos-04.jpg",
+   "c03-como-armamos-05.jpg",
+   "c03-como-armamos-06.jpg"
+  ],
+  "texto": "Así armamos tu tienda online, paso a paso.\n\nVos nos pasás fotos y precios. Nosotros armamos el diseño y cargamos todos los productos. La ves terminada y, si no te gusta, no pagás el 50% restante.\n\nEl primer paso es un diagnóstico gratis: escribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #ecommerce #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c03-como-armamos-historia",
+  "fecha": "2026-11-13T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "proceso",
+  "imagenes": [
+   "c03-como-armamos-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c04-tienda-mayorista",
+  "fecha": "2026-11-14T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "mayorista",
+  "imagenes": [
+   "c04-tienda-mayorista-01.jpg",
+   "c04-tienda-mayorista-02.jpg",
+   "c04-tienda-mayorista-03.jpg",
+   "c04-tienda-mayorista-04.jpg",
+   "c04-tienda-mayorista-05.jpg",
+   "c04-tienda-mayorista-06.jpg",
+   "c04-tienda-mayorista-07.jpg"
+  ],
+  "texto": "Una tienda mayorista bien armada te toma los pedidos mientras vos atendés el local.\n\nMínimo de compra, seña, retiro o envío, stock que se descuenta solo y el contacto de cada cliente guardado.\n\nEscribinos por WhatsApp al 11 6791-5562 y te mostramos cómo quedaría la tuya.\n\n#mayoristas #ventamayorista #tiendanube #flores #lasalada",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c04-tienda-mayorista-historia",
+  "fecha": "2026-11-14T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "mayorista",
+  "imagenes": [
+   "c04-tienda-mayorista-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c05-errores-tienda",
+  "fecha": "2026-11-14T14:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "educativo",
+  "imagenes": [
+   "c05-errores-tienda-01.jpg",
+   "c05-errores-tienda-02.jpg",
+   "c05-errores-tienda-03.jpg",
+   "c05-errores-tienda-04.jpg",
+   "c05-errores-tienda-05.jpg",
+   "c05-errores-tienda-06.jpg",
+   "c05-errores-tienda-07.jpg"
+  ],
+  "texto": "5 errores que vemos todo el tiempo en tiendas que no venden.\n\nGuardá este post y revisá la tuya. Si querés, te la revisamos nosotros y te decimos qué mejorar, gratis.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendaonline #ecommerce #tiendanube #emprendedores #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c05-errores-tienda-historia",
+  "fecha": "2026-11-14T14:05:00-03:00",
+  "tipo": "historia",
+  "tema": "educativo",
+  "imagenes": [
+   "c05-errores-tienda-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c06-planes",
+  "fecha": "2026-11-14T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "precios",
+  "imagenes": [
+   "c06-planes-01.jpg",
+   "c06-planes-02.jpg",
+   "c06-planes-03.jpg",
+   "c06-planes-04.jpg",
+   "c06-planes-05.jpg",
+   "c06-planes-06.jpg"
+  ],
+  "texto": "Precios claros, sin comisión sobre tus ventas.\n\nPremium, Medio e Inicial: todos incluyen la tienda armada con tus productos cargados. La inversión en publicidad la pagás aparte, directo a Meta. Precios de lanzamiento para las primeras 5 marcas, vigentes en noviembre de 2026.\n\nEscribinos por WhatsApp al 11 6791-5562 y te decimos cuál te conviene.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c06-planes-historia",
+  "fecha": "2026-11-14T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "precios",
+  "imagenes": [
+   "c06-planes-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c07-garantia",
+  "fecha": "2026-11-15T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "confianza",
+  "imagenes": [
+   "c07-garantia-01.jpg",
+   "c07-garantia-02.jpg",
+   "c07-garantia-03.jpg",
+   "c07-garantia-04.jpg",
+   "c07-garantia-05.jpg"
+  ],
+  "texto": "Entendemos la desconfianza con las agencias. Por eso trabajamos con 2 garantías:\n\nSi la tienda no te gusta, no pagás el 50% restante.\nSi en 10 días hábiles tus campañas no están publicadas, ese mes no se paga.\n\nEscribinos por WhatsApp al 11 6791-5562 y preguntanos lo que quieras.\n\n#tiendanube #tiendaonline #emprendedores #ecommerce #agenciadigital",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c07-garantia-historia",
+  "fecha": "2026-11-15T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "confianza",
+  "imagenes": [
+   "c07-garantia-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c08-revendedoras",
+  "fecha": "2026-11-15T14:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "recompra",
+  "imagenes": [
+   "c08-revendedoras-01.jpg",
+   "c08-revendedoras-02.jpg",
+   "c08-revendedoras-03.jpg",
+   "c08-revendedoras-04.jpg",
+   "c08-revendedoras-05.jpg",
+   "c08-revendedoras-06.jpg"
+  ],
+  "texto": "Conseguir una revendedora nueva cuesta mucho más que volver a venderle a la que ya te compró.\n\nCon una tienda online guardás su contacto, le avisás cuando entra mercadería y le volvés a aparecer con publicidad.\n\nEscribinos por WhatsApp al 11 6791-5562 y te armamos el sistema.\n\n#revendedoras #mayoristas #tiendanube #ventasonline #emprendedores",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c08-revendedoras-historia",
+  "fecha": "2026-11-15T14:05:00-03:00",
+  "tipo": "historia",
+  "tema": "recompra",
+  "imagenes": [
+   "c08-revendedoras-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c09-publicidad-whatsapp",
+  "fecha": "2026-11-15T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "publicidad",
+  "imagenes": [
+   "c09-publicidad-whatsapp-01.jpg",
+   "c09-publicidad-whatsapp-02.jpg",
+   "c09-publicidad-whatsapp-03.jpg",
+   "c09-publicidad-whatsapp-04.jpg",
+   "c09-publicidad-whatsapp-05.jpg",
+   "c09-publicidad-whatsapp-06.jpg"
+  ],
+  "texto": "La publicidad que más usamos con marcas que venden por WhatsApp: el anuncio abre un chat directo con vos.\n\nArmamos el anuncio con tus fotos, lo mostramos en tu zona o en todo el país, y medimos cuánto invertiste y cuánto vendiste.\n\nEscribinos por WhatsApp al 11 6791-5562 y te contamos cómo sería para tu marca.\n\n#publicidadenredes #metaads #whatsappbusiness #emprendedores #tiendanube",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c09-publicidad-whatsapp-historia",
+  "fecha": "2026-11-15T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "publicidad",
+  "imagenes": [
+   "c09-publicidad-whatsapp-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c10-ventas-de-noche",
+  "fecha": "2026-11-16T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "dolor",
+  "imagenes": [
+   "c10-ventas-de-noche-01.jpg",
+   "c10-ventas-de-noche-02.jpg",
+   "c10-ventas-de-noche-03.jpg",
+   "c10-ventas-de-noche-04.jpg",
+   "c10-ventas-de-noche-05.jpg"
+  ],
+  "texto": "Cada mensaje que no contestás a la noche puede ser una venta que se lleva otro.\n\nCon una tienda online el cliente elige, arma el pedido y paga solo, a cualquier hora. Y vos seguís atendiendo por WhatsApp como siempre.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c10-ventas-de-noche-historia",
+  "fecha": "2026-11-16T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "dolor",
+  "imagenes": [
+   "c10-ventas-de-noche-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c11-instagram-bloqueado",
+  "fecha": "2026-11-16T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "riesgo",
+  "imagenes": [
+   "c11-instagram-bloqueado-01.jpg",
+   "c11-instagram-bloqueado-02.jpg",
+   "c11-instagram-bloqueado-03.jpg",
+   "c11-instagram-bloqueado-04.jpg",
+   "c11-instagram-bloqueado-05.jpg"
+  ],
+  "texto": "Instagram es una vidriera buenísima, pero no es tuya. Si te bloquean o te hackean la cuenta, perdés el contacto con tus clientes.\n\nEn tu tienda online cada comprador queda guardado con su nombre, WhatsApp y email.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c11-instagram-bloqueado-historia",
+  "fecha": "2026-11-16T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "riesgo",
+  "imagenes": [
+   "c11-instagram-bloqueado-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c12-que-necesitas",
+  "fecha": "2026-11-17T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "proceso",
+  "imagenes": [
+   "c12-que-necesitas-01.jpg",
+   "c12-que-necesitas-02.jpg",
+   "c12-que-necesitas-03.jpg",
+   "c12-que-necesitas-04.jpg",
+   "c12-que-necesitas-05.jpg"
+  ],
+  "texto": "Para armar tu tienda necesitás mucho menos de lo que pensás: fotos, precios y talles. Del resto nos encargamos nosotros.\n\nNo hace falta que sepas de computación ni que cargues un solo producto.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c12-que-necesitas-historia",
+  "fecha": "2026-11-17T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "proceso",
+  "imagenes": [
+   "c12-que-necesitas-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c13-fotos-celular",
+  "fecha": "2026-11-17T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "educativo",
+  "imagenes": [
+   "c13-fotos-celular-01.jpg",
+   "c13-fotos-celular-02.jpg",
+   "c13-fotos-celular-03.jpg",
+   "c13-fotos-celular-04.jpg",
+   "c13-fotos-celular-05.jpg",
+   "c13-fotos-celular-06.jpg",
+   "c13-fotos-celular-07.jpg"
+  ],
+  "texto": "No hace falta un fotógrafo para tener fotos que vendan. Con el celular, luz natural y un fondo limpio ya estás a mitad de camino.\n\nGuardá este post para la próxima vez que saques fotos.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c13-fotos-celular-historia",
+  "fecha": "2026-11-17T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "educativo",
+  "imagenes": [
+   "c13-fotos-celular-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c14-rubros",
+  "fecha": "2026-11-18T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "rubros",
+  "imagenes": [
+   "c14-rubros-01.jpg",
+   "c14-rubros-02.jpg",
+   "c14-rubros-03.jpg",
+   "c14-rubros-04.jpg",
+   "c14-rubros-05.jpg",
+   "c14-rubros-06.jpg"
+  ],
+  "texto": "Si se puede sacar una foto y ponerle un precio, se puede vender online.\n\nArmamos tiendas de ropa, bebé, lencería, calzado, accesorios, bazar, cosmética y más. Por mayor, por menor o las dos cosas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c14-rubros-historia",
+  "fecha": "2026-11-18T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "rubros",
+  "imagenes": [
+   "c14-rubros-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c15-mitos",
+  "fecha": "2026-11-18T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "objeciones",
+  "imagenes": [
+   "c15-mitos-01.jpg",
+   "c15-mitos-02.jpg",
+   "c15-mitos-03.jpg",
+   "c15-mitos-04.jpg",
+   "c15-mitos-05.jpg"
+  ],
+  "texto": "Desarmamos 3 mitos que escuchamos todo el tiempo.\n\nUna tienda online no reemplaza a tu WhatsApp ni a tu local: suma un canal que vende solo.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c15-mitos-historia",
+  "fecha": "2026-11-18T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "objeciones",
+  "imagenes": [
+   "c15-mitos-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c16-temporada",
+  "fecha": "2026-11-19T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "temporada",
+  "imagenes": [
+   "c16-temporada-01.jpg",
+   "c16-temporada-02.jpg",
+   "c16-temporada-03.jpg",
+   "c16-temporada-04.jpg",
+   "c16-temporada-05.jpg"
+  ],
+  "texto": "Diciembre es de los meses que más venden y armar una tienda bien lleva entre 7 y 14 días.\n\nSi querés llegar a las fiestas con tu tienda andando y con publicidad, este es el momento de arrancar.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c16-temporada-historia",
+  "fecha": "2026-11-19T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "temporada",
+  "imagenes": [
+   "c16-temporada-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c17-lista-clientes",
+  "fecha": "2026-11-19T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "email",
+  "imagenes": [
+   "c17-lista-clientes-01.jpg",
+   "c17-lista-clientes-02.jpg",
+   "c17-lista-clientes-03.jpg",
+   "c17-lista-clientes-04.jpg",
+   "c17-lista-clientes-05.jpg"
+  ],
+  "texto": "Tus seguidores ven tus posts solo cuando Instagram decide mostrárselos. A tus clientes con email y WhatsApp les llegás cuando vos querés.\n\nCon una tienda online esa lista se arma sola, con cada compra.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c17-lista-clientes-historia",
+  "fecha": "2026-11-19T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "email",
+  "imagenes": [
+   "c17-lista-clientes-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c18-respuestas-rapidas",
+  "fecha": "2026-11-20T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "educativo",
+  "imagenes": [
+   "c18-respuestas-rapidas-01.jpg",
+   "c18-respuestas-rapidas-02.jpg",
+   "c18-respuestas-rapidas-03.jpg",
+   "c18-respuestas-rapidas-04.jpg",
+   "c18-respuestas-rapidas-05.jpg",
+   "c18-respuestas-rapidas-06.jpg",
+   "c18-respuestas-rapidas-07.jpg"
+  ],
+  "texto": "Si escribís lo mismo 50 veces por día, las respuestas rápidas de WhatsApp Business te ahorran horas.\n\nEscribís la barra y la palabra, por ejemplo /precios, y sale el mensaje completo. Guardá este post y armá las tuyas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c18-respuestas-rapidas-historia",
+  "fecha": "2026-11-20T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "educativo",
+  "imagenes": [
+   "c18-respuestas-rapidas-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c19-preguntas-frecuentes",
+  "fecha": "2026-11-20T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "objeciones",
+  "imagenes": [
+   "c19-preguntas-frecuentes-01.jpg",
+   "c19-preguntas-frecuentes-02.jpg",
+   "c19-preguntas-frecuentes-03.jpg",
+   "c19-preguntas-frecuentes-04.jpg",
+   "c19-preguntas-frecuentes-05.jpg",
+   "c19-preguntas-frecuentes-06.jpg"
+  ],
+  "texto": "Las 4 preguntas que más nos hacen antes de arrancar.\n\nLa tienda queda a tu nombre, tarda entre 7 y 14 días, no necesitás saber de computación y no cobramos comisión sobre tus ventas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c19-preguntas-frecuentes-historia",
+  "fecha": "2026-11-20T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "objeciones",
+  "imagenes": [
+   "c19-preguntas-frecuentes-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c20-que-plan-elegir",
+  "fecha": "2026-11-21T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "precios",
+  "imagenes": [
+   "c20-que-plan-elegir-01.jpg",
+   "c20-que-plan-elegir-02.jpg",
+   "c20-que-plan-elegir-03.jpg",
+   "c20-que-plan-elegir-04.jpg",
+   "c20-que-plan-elegir-05.jpg"
+  ],
+  "texto": "¿Recién arrancás? Inicial. ¿Ya vendés todos los días? Medio. ¿Querés escalar fuerte? Premium.\n\nSi no estás seguro, escribinos y lo vemos juntos.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c20-que-plan-elegir-historia",
+  "fecha": "2026-11-21T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "precios",
+  "imagenes": [
+   "c20-que-plan-elegir-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c21-diagnostico",
+  "fecha": "2026-11-21T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "oferta",
+  "imagenes": [
+   "c21-diagnostico-01.jpg",
+   "c21-diagnostico-02.jpg",
+   "c21-diagnostico-03.jpg",
+   "c21-diagnostico-04.jpg",
+   "c21-diagnostico-05.jpg"
+  ],
+  "texto": "Te revisamos cómo vendés hoy y te decimos qué mejorar primero. Gratis y sin compromiso.\n\nMiramos tu Instagram, tus fotos, cómo te piden y cómo cobrás, y si ya tenés tienda, también.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c21-diagnostico-historia",
+  "fecha": "2026-11-21T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "oferta",
+  "imagenes": [
+   "c21-diagnostico-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c22-envios",
+  "fecha": "2026-11-22T10:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "educativo",
+  "imagenes": [
+   "c22-envios-01.jpg",
+   "c22-envios-02.jpg",
+   "c22-envios-03.jpg",
+   "c22-envios-04.jpg",
+   "c22-envios-05.jpg",
+   "c22-envios-06.jpg"
+  ],
+  "texto": "Retiro en el local, moto en el día, correo a todo el país y envío gratis desde un monto: todo se puede configurar en tu tienda.\n\nEl cliente ve el costo antes de pagar y vos no tenés que calcular nada.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c22-envios-historia",
+  "fecha": "2026-11-22T10:05:00-03:00",
+  "tipo": "historia",
+  "tema": "educativo",
+  "imagenes": [
+   "c22-envios-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "c23-equipo",
+  "fecha": "2026-11-22T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "marca",
+  "imagenes": [
+   "c23-equipo-01.jpg",
+   "c23-equipo-02.jpg",
+   "c23-equipo-03.jpg",
+   "c23-equipo-04.jpg",
+   "c23-equipo-05.jpg"
+  ],
+  "texto": "Somos un equipo chico a propósito: trabajamos con pocas marcas a la vez para hacer cada tienda bien.\n\nUsamos inteligencia artificial para cargar productos y armar anuncios más rápido, pero hablás siempre con personas.\n\nEscribinos por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ventasonline",
+  "facebook": true,
+  "aprobado": false
+ },
+ {
+  "id": "c23-equipo-historia",
+  "fecha": "2026-11-22T19:05:00-03:00",
+  "tipo": "historia",
+  "tema": "marca",
+  "imagenes": [
+   "c23-equipo-historia.jpg"
+  ],
+  "aprobado": false
+ },
+ {
+  "id": "v2-c03-como-armamos",
+  "fecha": "2026-11-12T12:35:00-03:00",
+  "tipo": "carrusel",
+  "tema": "proceso",
+  "imagenes": [
+   "c03v2-01.jpg",
+   "c03v2-02.jpg",
+   "c03v2-03.jpg",
+   "c03v2-04.jpg",
+   "c03v2-05.jpg",
+   "c03v2-06.jpg"
+  ],
+  "texto": "Así armamos tu tienda online, en 4 pasos y sin que cargues ni un producto.\n\n1. Diagnóstico gratis por WhatsApp.\n2. Nos pasás fotos, precios y talles.\n3. Armamos el diseño y cargamos todo.\n4. La ves y la aprobás. Si no te gusta, no pagás el 50% restante.\n\nSomos Partner certificado de Tiendanube. Escribinos al 11 6791-5562 y arrancamos con el paso 1.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c03-como-armamos-historia",
+  "fecha": "2026-11-12T12:36:00-03:00",
+  "tipo": "historia",
+  "tema": "proceso",
+  "imagenes": [
+   "c03-como-armamos-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "reel01-A-prueba",
+  "fecha": "2026-11-12T15:00:00-03:00",
+  "tipo": "reel_prueba",
+  "tema": "dolor",
+  "video": "reel01-A.mp4",
+  "portada": "reel01-A-portada.jpg",
+  "texto": "¿Te pasa? Los pedidos te llegan por audio, foto y mensaje suelto.\n\nCon una tienda online el pedido llega armado, el stock se descuenta solo y cada cliente queda guardado. Te la armamos y cargamos todos tus productos.\n\nPartner certificado de Tiendanube. Diagnóstico gratis por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
+  "aprobado": false,
+  "variante": "A"
+ },
+ {
+  "id": "reel01-B-prueba",
+  "fecha": "2026-11-12T17:00:00-03:00",
+  "tipo": "reel_prueba",
+  "tema": "dolor",
+  "video": "reel01-B.mp4",
+  "portada": "reel01-B-portada.jpg",
+  "texto": "¿Te pasa? Los pedidos te llegan por audio, foto y mensaje suelto.\n\nCon una tienda online el pedido llega armado, el stock se descuenta solo y cada cliente queda guardado. Te la armamos y cargamos todos tus productos.\n\nPartner certificado de Tiendanube. Diagnóstico gratis por WhatsApp al 11 6791-5562.\n\n#tiendanube #tiendaonline #mayoristas #emprendedoresargentinos #flores",
+  "aprobado": false,
+  "variante": "B"
+ },
+ {
+  "id": "v2-c08-revendedoras",
+  "fecha": "2026-11-12T13:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "recompra",
+  "imagenes": [
+   "c08v2-01.jpg",
+   "c08v2-02.jpg",
+   "c08v2-03.jpg",
+   "c08v2-04.jpg",
+   "c08v2-05.jpg",
+   "c08v2-06.jpg"
+  ],
+  "texto": "¿Te pasa? La revendedora compra una vez y después no vuelve a escribir.\n\nNo es que no le gustó: es que no tenés cómo volver a hablarle. Con tu tienda online guardás su contacto, le avisás cuando entra mercadería, le das un cupón para la segunda compra y le volvés a aparecer con publicidad.\n\nTe armamos la tienda y el sistema. Somos Partner certificado de Tiendanube. Escribinos al 11 6791-5562.\n\n#revendedoras #mayoristas #tiendanube #ventasonline #emprendedoresargentinos",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c08-revendedoras-historia",
+  "fecha": "2026-11-12T13:01:00-03:00",
+  "tipo": "historia",
+  "tema": "recompra",
+  "imagenes": [
+   "c08-revendedoras-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "v2-c04v2",
+  "fecha": "2026-11-12T14:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "alcance",
+  "seo": "Vender por mayor a todo el país sin moverte de tu local",
+  "imagenes": [
+   "c04v2-01.jpg",
+   "c04v2-02.jpg",
+   "c04v2-03.jpg",
+   "c04v2-04.jpg",
+   "c04v2-05.jpg",
+   "c04v2-06.jpg",
+   "c04v2-07.jpg"
+  ],
+  "texto": "Cómo vender a revendedoras de todo el país con tu tienda online mayorista 👇\n\nTe encuentran por Instagram y Facebook, arman el pedido solas, el envío se calcula solo con el código postal y cada clienta queda guardada para volver a venderle.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#ventamayorista #tiendaonline #revendedoras #tiendanube #mayoristas",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c04v2-historia",
+  "fecha": "2026-11-12T14:01:00-03:00",
+  "tipo": "historia",
+  "tema": "alcance",
+  "imagenes": [
+   "c04v2-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "v2-c05v2",
+  "fecha": "2026-11-18T11:10:00-03:00",
+  "tipo": "carrusel",
+  "tema": "educativo",
+  "seo": "5 errores que hacen que tu tienda online no venda",
+  "imagenes": [
+   "c05v2-01.jpg",
+   "c05v2-02.jpg",
+   "c05v2-03.jpg",
+   "c05v2-04.jpg",
+   "c05v2-05.jpg",
+   "c05v2-06.jpg",
+   "c05v2-07.jpg"
+  ],
+  "texto": "¿Tu tienda online no vende? Revisá estos 5 errores 👇 Guardalo para cuando revises la tuya.\n\n1. Fotos oscuras o borrosas. 2. Productos sin precio. 3. Sin talles ni medidas. 4. Envío poco claro. 5. Nadie responde.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #ventasonline #emprendedoresargentinos #tiendanube #ecommerce",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c05v2-historia",
+  "fecha": "2026-11-12T15:01:00-03:00",
+  "tipo": "historia",
+  "tema": "educativo",
+  "imagenes": [
+   "c05v2-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "v2-c06v2",
+  "fecha": "2026-11-18T13:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "precios",
+  "seo": "Cuánto cuesta una tienda online Tiendanube armada",
+  "imagenes": [
+   "c06v2-01.jpg",
+   "c06v2-02.jpg",
+   "c06v2-03.jpg",
+   "c06v2-04.jpg",
+   "c06v2-05.jpg",
+   "c06v2-06.jpg"
+  ],
+  "texto": "¿Cuánto cuesta tener tu tienda online armada? Te mostramos los 3 planes, con precios claros y sin comisión sobre tus ventas 👇\n\nInicial $350.000 + $65.000/mes · Medio $590.000 + $330.000/mes · Premium $890.000 + $620.000/mes. La publicidad se paga aparte, directo a Meta. Precios de lanzamiento de noviembre de 2026.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #emprendedoresargentinos #mayoristas #ecommerce",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c06v2-historia",
+  "fecha": "2026-11-12T17:01:00-03:00",
+  "tipo": "historia",
+  "tema": "precios",
+  "imagenes": [
+   "c06v2-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "v2-c07v2",
+  "fecha": "2026-11-18T15:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "confianza",
+  "seo": "Garantía: tienda online sin riesgo",
+  "imagenes": [
+   "c07v2-01.jpg",
+   "c07v2-02.jpg",
+   "c07v2-03.jpg",
+   "c07v2-04.jpg",
+   "c07v2-05.jpg"
+  ],
+  "texto": "¿Y si pago y no me hacen nada? Por eso trabajamos con 2 garantías 👇\n\nSi la tienda no te gusta, no pagás el 50% restante. Si en 10 días hábiles tus campañas no están publicadas, ese mes no se paga. Y todo queda a tu nombre.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendanube #tiendaonline #emprendedores #ecommerce #agenciadigital",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c07v2-historia",
+  "fecha": "2026-11-12T19:01:00-03:00",
+  "tipo": "historia",
+  "tema": "confianza",
+  "imagenes": [
+   "c07v2-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "v2-c09v2",
+  "fecha": "2026-11-18T17:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "publicidad",
+  "seo": "Publicidad en Instagram y Facebook que trae mensajes a WhatsApp",
+  "imagenes": [
+   "c09v2-01.jpg",
+   "c09v2-02.jpg",
+   "c09v2-03.jpg",
+   "c09v2-04.jpg",
+   "c09v2-05.jpg",
+   "c09v2-06.jpg"
+  ],
+  "texto": "Publicidad en Instagram y Facebook que te llena el WhatsApp de consultas 👇\n\nArmamos el anuncio con tus fotos, la gente te escribe directo, vos vendés y medimos cuánto invertiste y cuánto vendiste.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#publicidadenredes #metaads #whatsappbusiness #emprendedoresargentinos #tiendanube",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c09v2-historia",
+  "fecha": "2026-11-12T21:01:00-03:00",
+  "tipo": "historia",
+  "tema": "publicidad",
+  "imagenes": [
+   "c09v2-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "v2-c10v2",
+  "fecha": "2026-11-18T19:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "dolor",
+  "seo": "Tienda online que vende las 24 horas",
+  "imagenes": [
+   "c10v2-01.jpg",
+   "c10v2-02.jpg",
+   "c10v2-03.jpg",
+   "c10v2-04.jpg",
+   "c10v2-05.jpg"
+  ],
+  "texto": "Tu tienda online vende las 24 horas, aunque estés durmiendo 👇\n\nSin tienda, el que te escribe a la noche a la mañana ya le compró a otro. Con tienda, te despertás con la venta hecha. Y seguís atendiendo por WhatsApp como siempre.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #ventasonline #tiendanube #emprendedoresargentinos #ecommerce",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c10v2-historia",
+  "fecha": "2026-11-18T19:01:00-03:00",
+  "tipo": "historia",
+  "tema": "dolor",
+  "imagenes": [
+   "c10v2-historia.jpg"
+  ],
+  "aprobado": true
+ },
+ {
+  "id": "v2-c11v2",
+  "fecha": "2026-11-18T21:00:00-03:00",
+  "tipo": "carrusel",
+  "tema": "riesgo",
+  "seo": "Por qué tener tienda online además de Instagram",
+  "imagenes": [
+   "c11v2-01.jpg",
+   "c11v2-02.jpg",
+   "c11v2-03.jpg",
+   "c11v2-04.jpg",
+   "c11v2-05.jpg"
+  ],
+  "texto": "Si mañana te bloquean Instagram, ¿dónde quedan tus clientes? 👇\n\nInstagram no es tuyo: una cuenta se puede bloquear o hackear. Tu tienda online sí: tus productos, tus ventas y la lista de todos tus clientes.\n\nSomos Palma Ecommerce, Partner certificado de Tiendanube: armamos tiendas online llave en mano para mayoristas y marcas de Flores, Once, Avellaneda y La Salada.\n\nEscribinos por WhatsApp al 11 6791-5562 y te hacemos un diagnóstico gratis.\n\n#tiendaonline #emprendedoresargentinos #tiendanube #ventasonline #mayoristas",
+  "facebook": true,
+  "aprobado": true
+ },
+ {
+  "id": "v2-c11v2-historia",
+  "fecha": "2026-11-18T21:01:00-03:00",
+  "tipo": "historia",
+  "tema": "riesgo",
+  "imagenes": [
+   "c11v2-historia.jpg"
+  ],
+  "aprobado": true
+ }
 ]
