@@ -131,6 +131,10 @@ def publicar():
     cal = load("calendario.json", [])
     estado = load(ESTADO, {})
     ahora = dt.datetime.now(dt.timezone.utc)
+    pausa = load("data/pausa.json", {})
+    if pausa.get("hasta") and dt.datetime.fromisoformat(pausa["hasta"]) > ahora:
+        print("En pausa hasta", pausa["hasta"], "-", pausa.get("motivo", ""))
+        return
     errores = []
     for p in sorted(cal, key=lambda x: x["fecha"]):
         if p["id"] in estado or not p.get("aprobado", True):
@@ -150,6 +154,13 @@ def publicar():
             save(ESTADO, estado)
         except Exception as e:
             errores.append(f"Instagram {p['id']}: {e}")
+            txt = str(e)
+            if any(k in txt for k in ("2207051", "bloqueado", "API access blocked", "request limit")):
+                hasta = (ahora + dt.timedelta(hours=24)).isoformat()
+                save("data/pausa.json", {"hasta": hasta, "motivo": txt[:300]})
+                errores.append(f"Bloqueo de Meta: pausa automatica hasta {hasta}")
+                break
+            break  # un solo intento por corrida: no insistir con el resto
     if errores:
         sys.exit("\n".join(errores))
 
