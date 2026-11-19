@@ -7,19 +7,17 @@
     "fecha_programada": "2026-11-12T12:15:00-03:00",
     "publicado": "2026-11-12T15:21:28.730224+00:00",
     "metricas": {
-      "_sin_dato": [
-        "reach",
-        "views",
-        "likes",
-        "comments",
-        "saved",
-        "shares",
-        "total_interactions",
-        "follows",
-        "profile_visits"
-      ]
+      "reach": 1,
+      "views": 5,
+      "likes": 2,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
     },
-    "actualizado": "2026-11-18T10:13:58.220056+00:00"
+    "actualizado": "2026-11-19T10:16:30.290689+00:00"
   },
   "c02-pedidos-por-audio-historia": {
     "ig_id": "18127743280903211",
@@ -38,7 +36,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:13:59.498863+00:00"
+    "actualizado": "2026-11-19T10:16:31.859815+00:00"
   },
   "v2-c03-como-armamos": {
     "ig_id": "18094398005227427",
@@ -48,19 +46,17 @@
     "fecha_programada": "2026-11-12T12:35:00-03:00",
     "publicado": "2026-11-12T15:37:08.039910+00:00",
     "metricas": {
-      "_sin_dato": [
-        "reach",
-        "views",
-        "likes",
-        "comments",
-        "saved",
-        "shares",
-        "total_interactions",
-        "follows",
-        "profile_visits"
-      ]
+      "reach": 3,
+      "views": 5,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
     },
-    "actualizado": "2026-11-18T10:14:01.432361+00:00"
+    "actualizado": "2026-11-19T10:16:34.540715+00:00"
   },
   "v2-c03-como-armamos-historia": {
     "ig_id": "17894730216653684",
@@ -79,7 +75,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:14:02.930945+00:00"
+    "actualizado": "2026-11-19T10:16:37.509809+00:00"
   },
   "v2-c08-revendedoras": {
     "ig_id": "18582793789073427",
@@ -89,19 +85,17 @@
     "fecha_programada": "2026-11-12T13:00:00-03:00",
     "publicado": "2026-11-12T16:52:29.232659+00:00",
     "metricas": {
-      "_sin_dato": [
-        "reach",
-        "views",
-        "likes",
-        "comments",
-        "saved",
-        "shares",
-        "total_interactions",
-        "follows",
-        "profile_visits"
-      ]
+      "reach": 3,
+      "views": 10,
+      "likes": 2,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
     },
-    "actualizado": "2026-11-18T10:14:04.897033+00:00"
+    "actualizado": "2026-11-19T10:16:40.061598+00:00"
   },
   "v2-c08-revendedoras-historia": {
     "ig_id": "18123396737094105",
@@ -120,7 +114,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:14:06.180780+00:00"
+    "actualizado": "2026-11-19T10:16:41.480967+00:00"
   },
   "v2-c04v2": {
     "ig_id": "18007657616794521",
@@ -130,19 +124,17 @@
     "fecha_programada": "2026-11-12T14:00:00-03:00",
     "publicado": "2026-11-12T17:49:53.633084+00:00",
     "metricas": {
-      "_sin_dato": [
-        "reach",
-        "views",
-        "likes",
-        "comments",
-        "saved",
-        "shares",
-        "total_interactions",
-        "follows",
-        "profile_visits"
-      ]
+      "reach": 1,
+      "views": 4,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 0,
+      "total_interactions": 2,
+      "follows": 0,
+      "profile_visits": 0
     },
-    "actualizado": "2026-11-18T10:14:08.132439+00:00"
+    "actualizado": "2026-11-19T10:16:43.910857+00:00"
   },
   "v2-c04v2-historia": {
     "ig_id": "18109577180199645",
@@ -161,7 +153,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:14:09.481379+00:00"
+    "actualizado": "2026-11-19T10:16:45.852723+00:00"
   },
   "v2-c05v2-historia": {
     "ig_id": "18242439733316694",
@@ -180,7 +172,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:14:10.801630+00:00"
+    "actualizado": "2026-11-19T10:16:47.235034+00:00"
   },
   "v2-c06v2-historia": {
     "ig_id": "18100773611537951",
@@ -199,7 +191,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:14:12.104874+00:00"
+    "actualizado": "2026-11-19T10:16:48.726119+00:00"
   },
   "v2-c07v2-historia": {
     "ig_id": "18103353947381891",
@@ -218,7 +210,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:14:13.412494+00:00"
+    "actualizado": "2026-11-19T10:16:50.142844+00:00"
   },
   "v2-c09v2-historia": {
     "ig_id": "18117700316123068",
@@ -237,12 +229,12 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-18T10:14:14.703522+00:00"
+    "actualizado": "2026-11-19T10:16:51.526127+00:00"
   },
   "_cuenta": {
     "id": "17841414669238656",
     "followers_count": 3,
-    "media_count": 105,
+    "media_count": 132,
     "username": "palma.ecommerce"
   }
 }
