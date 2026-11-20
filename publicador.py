@@ -65,8 +65,25 @@ def esperar(cid):
     raise RuntimeError(f"El contenedor {cid} no terminó de procesar")
 
 
+def ya_publicado(texto):
+    """Busca en las ultimas publicaciones del feed una con el mismo texto. Devuelve su id o None."""
+    if not texto:
+        return None
+    clave = texto.strip()[:80]
+    r = api("GET", f"{IG}/{IG_USER}/media", fields="id,caption", limit="30", access_token=TOKEN)
+    for m in r.get("data", []):
+        if (m.get("caption") or "").strip()[:80] == clave:
+            return m["id"]
+    return None
+
+
 def publicar_ig(p):
     tipo, texto = p["tipo"], p.get("texto", "")
+    if tipo != "historia":
+        previo = ya_publicado(texto)
+        if previo:
+            print("Ya estaba publicado en Instagram, no lo repito:", previo)
+            return previo
     if tipo == "carrusel":
         hijos = []
         for img in p["imagenes"]:
@@ -92,8 +109,21 @@ def publicar_ig(p):
     else:
         raise RuntimeError(f"Tipo desconocido: {tipo}")
     esperar(c["id"])
-    r = api("POST", f"{IG}/{IG_USER}/media_publish", creation_id=c["id"], access_token=TOKEN)
-    return r["id"]
+    try:
+        r = api("POST", f"{IG}/{IG_USER}/media_publish", creation_id=c["id"], access_token=TOKEN)
+        return r["id"]
+    except Exception as e:
+        # Meta a veces publica igual aunque devuelva error: chequear antes de reintentar
+        time.sleep(20)
+        if tipo != "historia":
+            previo = ya_publicado(texto)
+            if previo:
+                print("Dio error pero se publico igual:", previo)
+                return previo
+            raise
+        # historias: no se pueden verificar por texto; no reintentar para no duplicar
+        print("Historia con error al publicar, no se reintenta:", e)
+        return "error-sin-reintento"
 
 
 def page_token():
