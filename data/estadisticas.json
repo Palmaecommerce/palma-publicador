@@ -7,17 +7,19 @@
     "fecha_programada": "2026-11-12T12:15:00-03:00",
     "publicado": "2026-11-12T15:21:28.730224+00:00",
     "metricas": {
-      "reach": 1,
-      "views": 5,
-      "likes": 2,
-      "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "total_interactions": 2,
-      "follows": 0,
-      "profile_visits": 0
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
     },
-    "actualizado": "2026-11-20T10:14:19.823802+00:00"
+    "actualizado": "2026-11-21T09:55:43.068107+00:00"
   },
   "c02-pedidos-por-audio-historia": {
     "ig_id": "18127743280903211",
@@ -36,7 +38,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:20.511030+00:00"
+    "actualizado": "2026-11-21T09:55:44.341884+00:00"
   },
   "v2-c03-como-armamos": {
     "ig_id": "18094398005227427",
@@ -46,17 +48,19 @@
     "fecha_programada": "2026-11-12T12:35:00-03:00",
     "publicado": "2026-11-12T15:37:08.039910+00:00",
     "metricas": {
-      "reach": 3,
-      "views": 5,
-      "likes": 1,
-      "comments": 0,
-      "saved": 1,
-      "shares": 0,
-      "total_interactions": 2,
-      "follows": 0,
-      "profile_visits": 0
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
     },
-    "actualizado": "2026-11-20T10:14:22.184571+00:00"
+    "actualizado": "2026-11-21T09:55:46.283626+00:00"
   },
   "v2-c03-como-armamos-historia": {
     "ig_id": "17894730216653684",
@@ -75,7 +79,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:23.002150+00:00"
+    "actualizado": "2026-11-21T09:55:47.561598+00:00"
   },
   "v2-c08-revendedoras": {
     "ig_id": "18582793789073427",
@@ -85,17 +89,19 @@
     "fecha_programada": "2026-11-12T13:00:00-03:00",
     "publicado": "2026-11-12T16:52:29.232659+00:00",
     "metricas": {
-      "reach": 3,
-      "views": 10,
-      "likes": 2,
-      "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "total_interactions": 2,
-      "follows": 0,
-      "profile_visits": 0
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
     },
-    "actualizado": "2026-11-20T10:14:24.475492+00:00"
+    "actualizado": "2026-11-21T09:55:49.472875+00:00"
   },
   "v2-c08-revendedoras-historia": {
     "ig_id": "18123396737094105",
@@ -114,7 +120,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:25.310080+00:00"
+    "actualizado": "2026-11-21T09:55:50.777560+00:00"
   },
   "v2-c04v2": {
     "ig_id": "18007657616794521",
@@ -124,17 +130,19 @@
     "fecha_programada": "2026-11-12T14:00:00-03:00",
     "publicado": "2026-11-12T17:49:53.633084+00:00",
     "metricas": {
-      "reach": 1,
-      "views": 4,
-      "likes": 1,
-      "comments": 0,
-      "saved": 1,
-      "shares": 0,
-      "total_interactions": 2,
-      "follows": 0,
-      "profile_visits": 0
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
     },
-    "actualizado": "2026-11-20T10:14:26.948098+00:00"
+    "actualizado": "2026-11-21T09:55:52.754935+00:00"
   },
   "v2-c04v2-historia": {
     "ig_id": "18109577180199645",
@@ -153,7 +161,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:27.625331+00:00"
+    "actualizado": "2026-11-21T09:55:54.024067+00:00"
   },
   "v2-c05v2-historia": {
     "ig_id": "18242439733316694",
@@ -172,7 +180,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:28.271754+00:00"
+    "actualizado": "2026-11-21T09:55:55.325597+00:00"
   },
   "v2-c06v2-historia": {
     "ig_id": "18100773611537951",
@@ -191,7 +199,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:29.021845+00:00"
+    "actualizado": "2026-11-21T09:55:56.606115+00:00"
   },
   "v2-c07v2-historia": {
     "ig_id": "18103353947381891",
@@ -210,7 +218,7 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:29.693996+00:00"
+    "actualizado": "2026-11-21T09:55:57.890987+00:00"
   },
   "v2-c09v2-historia": {
     "ig_id": "18117700316123068",
@@ -229,12 +237,104 @@
         "navigation"
       ]
     },
-    "actualizado": "2026-11-20T10:14:30.445245+00:00"
+    "actualizado": "2026-11-21T09:55:59.171735+00:00"
   },
   "_cuenta": {
     "id": "17841414669238656",
     "followers_count": 3,
     "media_count": 132,
     "username": "palma.ecommerce"
+  },
+  "v2-c05v2": {
+    "ig_id": "17932346508422811",
+    "fb_id": null,
+    "tipo": "carrusel",
+    "tema": "",
+    "fecha_programada": "",
+    "publicado": "2026-11-12",
+    "nota": "registrado a mano tras borrar duplicados",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
+    },
+    "actualizado": "2026-11-21T09:56:01.127398+00:00"
+  },
+  "v2-c06v2": {
+    "ig_id": "18639739663050551",
+    "fb_id": null,
+    "tipo": "carrusel",
+    "tema": "",
+    "fecha_programada": "",
+    "publicado": "2026-11-12",
+    "nota": "registrado a mano tras borrar duplicados",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
+    },
+    "actualizado": "2026-11-21T09:56:03.034335+00:00"
+  },
+  "v2-c07v2": {
+    "ig_id": "18119964256994920",
+    "fb_id": null,
+    "tipo": "carrusel",
+    "tema": "",
+    "fecha_programada": "",
+    "publicado": "2026-11-12",
+    "nota": "registrado a mano tras borrar duplicados",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
+    },
+    "actualizado": "2026-11-21T09:56:04.949855+00:00"
+  },
+  "v2-c09v2": {
+    "ig_id": "18120036740028576",
+    "fb_id": null,
+    "tipo": "carrusel",
+    "tema": "",
+    "fecha_programada": "",
+    "publicado": "2026-11-12",
+    "nota": "registrado a mano tras borrar duplicados",
+    "metricas": {
+      "_sin_dato": [
+        "reach",
+        "views",
+        "likes",
+        "comments",
+        "saved",
+        "shares",
+        "total_interactions",
+        "follows",
+        "profile_visits"
+      ]
+    },
+    "actualizado": "2026-11-21T09:56:06.842454+00:00"
   }
 }
