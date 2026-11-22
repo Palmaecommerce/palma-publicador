@@ -1,4 +1,4 @@
 {
-  "hasta": "2026-11-22T15:43:05.688930+00:00",
-  "motivo": "400 https://graph.facebook.com/v23.0/17841414669238656/media: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AeiLTow8b1qdpv_0OSKaPVv\"}}"
+  "hasta": "2026-11-23T16:42:56.156049+00:00",
+  "motivo": "400 https://graph.facebook.com/v23.0/17841414669238656/media: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AZcyf4aMfi7ZLRzE-PYdKMb\"}}"
 }
